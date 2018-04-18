@@ -1,5 +1,5 @@
 #services to include in installer
-#format is servicename=category,Description
+#format is servicename=category, Description
 #for example ntp might be ntp=Admin, Network Time Protocol
 #list is comma delimited
 
