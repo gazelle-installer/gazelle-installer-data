@@ -1,0 +1,17 @@
+gazelle-installer-data-mx (18.4.6) UNRELEASED; urgency=medium
+
+  * 
+
+ -- dolphinoracle <dolphin@mx>  Tue, 17 Apr 2018 21:25:46 -0400
+
+gazelle-installer-data-mx (18.4.5) mx; urgency=medium
+
+  * added comments to installer.conf
+
+ -- dolphinoracle <dolphin@mx>  Tue, 17 Apr 2018 21:24:46 -0400
+
+gazelle-installer-data-mx (18.4.4) mx; urgency=medium
+
+  * initial commit
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Tue, 17 Apr 2018 20:53:45 -0400
