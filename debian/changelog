@@ -1,3 +1,9 @@
+gazelle-installer-data (18.5.1) mx; urgency=medium
+
+  * moved rc.local.install and live-to-installed to data package 
+
+ -- dolphinoracle <dolphin@mx>  Tue, 01 May 2018 20:38:43 -0400
+
 gazelle-installer-data (18.4.5) mx; urgency=medium
 
   * added comments to installer.conf
