@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/gazelle-installer/gazelle-installer-data
 Package: gazelle-installer-data
 Depends: 
 Provides: gazelle-installer-data
+Replaces: mx-installer (<< 18.5)
+Breaks: mx-installer (<< 18.5)
 Architecture: all
 Description: Branding and installer.conf data for gazelle-installer
 
