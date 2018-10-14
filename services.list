@@ -107,6 +107,32 @@ rsync_cs=Síť, File copying tool
 cups_cs=Tisk, Linux a OSX služby tisku
 cups-browsed_cs=Tisk, CUPS Bonjour (zeroconf) printer discovery service
 
+# da
+
+anacron_da=Administration, Runs commands periodically
+cron_da=Administration, Time-based job scheduler
+sudo_da=Administration, Execute a command as another user
+cpufrequtils_da=Hardware, CPU frequency irqbalance
+smartmontools_da=Hardware, S.M.A.R.T. monitoring tools
+acpid_da=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_da=Hardware, Advanced Configuration and Power Interface
+hddtemp_da=Hardware, HDD temperature monitor
+gpm_da=Hardware, Mouse event server
+acpi-fakekey_da=Hardware, Generates key events for ACPI scripts
+dbus_da=Hardware, Message bus daemon
+saned_da=Hardware, Scanner daemon
+haveged_da=Hardware, Random number generator
+avahi-daemon_da=Hardware, Enables programs to publish and discover services and hosts
+network-manager_da=Netværk, Network connections
+wicd_da=Netværk, Network connections
+ssh_da=Netværk, Secure Shell
+nfs-kernel-server_da=Netværk, Linux NFS Network File System server component
+openVPN_da=Netværk, VPN program that creates secure connections
+bluetooth_da=Netværk, Bluetooth
+rsync_da=Netværk, File copying tool
+cups_da=Udskrivning, Linux and OS X printer service
+cups-browsed_da=Udskrivning, CUPS Bonjour (zeroconf) printer discovery service
+
 # de
 
 anacron_de=Administration, Befehle periodisch ausführen
@@ -262,6 +288,32 @@ bluetooth_hi=नेटवर्किंग, ब्लूटूथ
 rsync_hi=नेटवर्किंग, File copying tool
 cups_hi=प्रिंटिंग, Linux and OS X printer service
 cups-browsed_hi=प्रिंटिंग, CUPS Bonjour (zeroconf) printer discovery service
+
+# hr
+
+anacron_hr=Admin, Pokreće naredbe periodično
+cron_hr=Admin, Time-based job scheduler
+sudo_hr=Admin, Izvršite naredbu kao drugi korisnik
+cpufrequtils_hr=Sklopovlje, CPU frequency irqbalance
+smartmontools_hr=Sklopovlje, S.M.A.R.T. monitoring tools
+acpid_hr=Sklopovlje, Advanced Configuration of Power Interface event daemon
+acpi-support_hr=Sklopovlje, Advanced Configuration and Power Interface
+hddtemp_hr=Sklopovlje, HDD nadzor temperature
+gpm_hr=Sklopovlje, Mouse event server
+acpi-fakekey_hr=Sklopovlje, Generates key events for ACPI scripts
+dbus_hr=Sklopovlje, Message bus daemon
+saned_hr=Sklopovlje, Scanner daemon
+haveged_hr=Sklopovlje, Generator nasumičnog broja
+avahi-daemon_hr=Sklopovlje, Enables programs to publish and discover services and hosts
+network-manager_hr=Networking, Mrežne veze
+wicd_hr=Networking, Mrežne veze
+ssh_hr=Networking, Secure Shell
+nfs-kernel-server_hr=Networking, Linux NFS Network File System server component
+openVPN_hr=Networking, VPN program koji stvara sigurne veze
+bluetooth_hr=Networking, Bluetooth
+rsync_hr=Networking, Alat za kopiranje datoteka
+cups_hr=Ispisivanje, Linux i OS X servis ispisa
+cups-browsed_hr=Ispisivanje, CUPS Bonjour (zeroconf) printer discovery service
 
 # hu
 
@@ -447,29 +499,29 @@ cups-browsed_pl=Drukowanie, CUPS Bonjour (zeroconf) printer discovery service
 
 # pt_BR
 
-anacron_pt_BR=Admin, Executa os comandos periodicamente
-cron_pt_BR=Admin, Definidor de acções a executar a horário
-sudo_pt_BR=Admin, Executar um comando como usuário diferente
-cpufrequtils_pt_BR=Hardware, CPU frequency irqbalance
+anacron_pt_BR=Administrador, Executa os comandos periodicamente
+cron_pt_BR=Administrador, Agendador de ações a executar por horário
+sudo_pt_BR=Administrador, Executar um comando como usuário diferente
+cpufrequtils_pt_BR=Hardware, Frequência irqbalance da CPU
 smartmontools_pt_BR=Hardware, Ferramentas de monitorização S.M.A.R.T.
-acpid_pt_BR=Hardware, Advanced Configuration of Power Interface event daemon
-acpi-support_pt_BR=Hardware, Advanced Configuration and Power Interface event daemon
+acpid_pt_BR=Hardware, Daemon (processo oculto) de evento de Configuração Avançada da Interface de Energia (ACPI)
+acpi-support_pt_BR=Hardware, Configuração Avançada da Interface de Energia (ACPI)
 hddtemp_pt_BR=Hardware, Monitor de temperatura do disco rígido (HDD)
 gpm_pt_BR=Hardware, Servidor de eventos do mouse
 acpi-fakekey_pt_BR=Hardware, Gera eventos-chave para scripts ACPI
-dbus_pt_BR=Hardware, Daemon (processo oculto) de transporte de menssagens
-saned_pt_BR=Hardware, Scanner daemon
+dbus_pt_BR=Hardware, Daemon (processo oculto) de transporte de mensagens
+saned_pt_BR=Hardware, Daemon (processo oculto) de Scanner
 haveged_pt_BR=Hardware, Gerador de números aleatórios
 avahi-daemon_pt_BR=Hardware, Habilitar programas a publicar e a descobrir serviços e hospedeiros.
-network-manager_pt_BR=Rede, Network connections
-wicd_pt_BR=Rede, Network connections
-ssh_pt_BR=Rede, Secure Shell
-nfs-kernel-server_pt_BR=Rede, Linux NFS Network File System server component
-openVPN_pt_BR=Rede, Programa de redes privadas virtuais que cria conexões seguras
+network-manager_pt_BR=Rede, Conexões de rede
+wicd_pt_BR=Rede, Conexões de rede
+ssh_pt_BR=Rede, Shell seguro
+nfs-kernel-server_pt_BR=Rede, Componente de servidor Linux NFS (Sistema de Arquivos de Rede)
+openVPN_pt_BR=Rede, Programa de Redes Privadas Virtuais (VPN) que cria conexões seguras
 bluetooth_pt_BR=Rede, Bluetooth
-rsync_pt_BR=Rede, File copying tool
+rsync_pt_BR=Rede, Ferramenta de cópia de arquivos
 cups_pt_BR=Impressão, Serviço de impressoras para Linux e OS X
-cups-browsed_pt_BR=Impressão, CUPS Bonjour (zeroconf) printer discovery service
+cups-browsed_pt_BR=Impressão, Serviço descobridor de impressoras - CUPS Bonjour (zeroconf)
 
 # pt
 
@@ -574,6 +626,32 @@ bluetooth_sk=Sieť, Bluetooth
 rsync_sk=Sieť, File copying tool
 cups_sk=Tlač, Služba tlače pre Linux a OS X
 cups-browsed_sk=Tlač, CUPS Bonjour (zeroconf) printer discovery service
+
+# sl
+
+anacron_sl=Administrator, Runs commands periodically
+cron_sl=Administrator, Time-based job scheduler
+sudo_sl=Administrator, Execute a command as another user
+cpufrequtils_sl=Strojni, CPU frequency irqbalance
+smartmontools_sl=Strojni, S.M.A.R.T. monitoring tools
+acpid_sl=Strojni, Advanced Configuration of Power Interface event daemon
+acpi-support_sl=Strojni, Advanced Configuration and Power Interface
+hddtemp_sl=Strojni, HDD temperature monitor
+gpm_sl=Strojni, Mouse event server
+acpi-fakekey_sl=Strojni, Generates key events for ACPI scripts
+dbus_sl=Strojni, Message bus daemon
+saned_sl=Strojni, Scanner daemon
+haveged_sl=Strojni, Random number generator
+avahi-daemon_sl=Strojni, Enables programs to publish and discover services and hosts
+network-manager_sl=Omrežje, Network connections
+wicd_sl=Omrežje, Network connections
+ssh_sl=Omrežje, Secure Shell
+nfs-kernel-server_sl=Omrežje, Linux NFS Network File System server component
+openVPN_sl=Omrežje, VPN program that creates secure connections
+bluetooth_sl=Omrežje, Bluetooth
+rsync_sl=Omrežje, File copying tool
+cups_sl=Tiskanje, Linux and OS X printer service
+cups-browsed_sl=Tiskanje, CUPS Bonjour (zeroconf) printer discovery service
 
 # sv
 
