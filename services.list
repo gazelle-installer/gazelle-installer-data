@@ -55,6 +55,58 @@ rsync_am=ኔትዎርክ, File copying tool
 cups_am=በ ማተም ላይ, Linux and OS X የ ማተሚያ ግልጋሎት
 cups-browsed_am=በ ማተም ላይ, CUPS Bonjour (zeroconf) printer discovery service
 
+# ar
+
+anacron_ar=Admin, Runs commands periodically
+cron_ar=Admin, Time-based job scheduler
+sudo_ar=Admin, Execute a command as another user
+cpufrequtils_ar= الأجهزة, CPU frequency irqbalance
+smartmontools_ar= الأجهزة, S.M.A.R.T. monitoring tools
+acpid_ar= الأجهزة, Advanced Configuration of Power Interface event daemon
+acpi-support_ar= الأجهزة, Advanced Configuration and Power Interface
+hddtemp_ar= الأجهزة, HDD temperature monitor
+gpm_ar= الأجهزة, Mouse event server
+acpi-fakekey_ar= الأجهزة, Generates key events for ACPI scripts
+dbus_ar= الأجهزة, Message bus daemon
+saned_ar= الأجهزة, Scanner daemon
+haveged_ar= الأجهزة, Random number generator
+avahi-daemon_ar= الأجهزة, Enables programs to publish and discover services and hosts
+network-manager_ar=Networking, Network connections
+wicd_ar=Networking, Network connections
+ssh_ar=Networking, Secure Shell
+nfs-kernel-server_ar=Networking, Linux NFS Network File System server component
+openVPN_ar=Networking, VPN program that creates secure connections
+bluetooth_ar=Networking, Bluetooth
+rsync_ar=Networking, File copying tool
+cups_ar=Printing, Linux and OS X printer service
+cups-browsed_ar=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
+# bg
+
+anacron_bg=Admin, Runs commands periodically
+cron_bg=Admin, Time-based job scheduler
+sudo_bg=Admin, Execute a command as another user
+cpufrequtils_bg=Хардуер, CPU frequency irqbalance
+smartmontools_bg=Хардуер, S.M.A.R.T. monitoring tools
+acpid_bg=Хардуер, Advanced Configuration of Power Interface event daemon
+acpi-support_bg=Хардуер, Advanced Configuration and Power Interface
+hddtemp_bg=Хардуер, HDD temperature monitor
+gpm_bg=Хардуер, Mouse event server
+acpi-fakekey_bg=Хардуер, Generates key events for ACPI scripts
+dbus_bg=Хардуер, Message bus daemon
+saned_bg=Хардуер, Scanner daemon
+haveged_bg=Хардуер, Random number generator
+avahi-daemon_bg=Хардуер, Enables programs to publish and discover services and hosts
+network-manager_bg=Networking, Network connections
+wicd_bg=Networking, Network connections
+ssh_bg=Networking, Secure Shell
+nfs-kernel-server_bg=Networking, Linux NFS Network File System server component
+openVPN_bg=Networking, VPN program that creates secure connections
+bluetooth_bg=Networking, Bluetooth
+rsync_bg=Networking, File copying tool
+cups_bg=Printing, Linux and OS X printer service
+cups-browsed_bg=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
 # ca
 
 anacron_ca=Administració, Executa ordres periòdicament
@@ -188,7 +240,7 @@ cups-browsed_el=Εκτύπωση, Υπηρεσία εντοπισμού εκτυ
 # es
 
 anacron_es=Admin, Ejecuta órdenes periódicamente
-cron_es=Admin, Temporizador de trabajos basados en tiempo
+cron_es=Admin, Temporizador de tareas basadas en horarios
 sudo_es=Admin, Ejecutar órdenes como otro usuario
 cpufrequtils_es=Equipo físico, CPU frequencia irqbalance
 smartmontools_es=Equipo físico, Herramientas S.M.A.R.T.
@@ -201,15 +253,93 @@ dbus_es=Equipo físico, demonio de mensajes de bus
 saned_es=Equipo físico, demonio de escáner
 haveged_es=Equipo físico, generador de números aleatorios
 avahi-daemon_es=Equipo físico, Permite a los programas publicar y descubrir los servicios y los hosts
-network-manager_es=Conexión entre redes, Conexciónes de redes
-wicd_es=Conexión entre redes, Conexciónes de redes
+network-manager_es=Conexión entre redes, Conexiones de redes
+wicd_es=Conexión entre redes, Conexiones de redes
 ssh_es=Conexión entre redes, Consola Segura
 nfs-kernel-server_es=Conexión entre redes, Componente del servidor para el Sistema de Ficheros de Redes NFS de Linux
 openVPN_es=Conexión entre redes, Programa VPN que crea conexiones seguras
 bluetooth_es=Conexión entre redes, Bluetooth
 rsync_es=Conexión entre redes, Herramienta para copiar ficheros
 cups_es=Impresión, Servicio de impresión para Linux y OS X
-cups-browsed_es=Impresión, CUPS Bonjour (zeroconf) servicio para la descubrimienta de impresoras
+cups-browsed_es=Impresión, CUPS Bonjour (zeroconf) servicio para visualización de impresoras
+
+# et
+
+anacron_et=Admin, Runs commands periodically
+cron_et=Admin, Time-based job scheduler
+sudo_et=Admin, Execute a command as another user
+cpufrequtils_et=Hardware, CPU frequency irqbalance
+smartmontools_et=Hardware, S.M.A.R.T. monitoring tools
+acpid_et=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_et=Hardware, Advanced Configuration and Power Interface
+hddtemp_et=Hardware, HDD temperature monitor
+gpm_et=Hardware, Mouse event server
+acpi-fakekey_et=Hardware, Generates key events for ACPI scripts
+dbus_et=Hardware, Message bus daemon
+saned_et=Hardware, Scanner daemon
+haveged_et=Hardware, Random number generator
+avahi-daemon_et=Hardware, Enables programs to publish and discover services and hosts
+network-manager_et=Networking, Network connections
+wicd_et=Networking, Network connections
+ssh_et=Networking, Secure Shell
+nfs-kernel-server_et=Networking, Linux NFS Network File System server component
+openVPN_et=Networking, VPN program that creates secure connections
+bluetooth_et=Networking, Bluetooth
+rsync_et=Networking, File copying tool
+cups_et=Printing, Linux and OS X printer service
+cups-browsed_et=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
+# eu
+
+anacron_eu=Admin, Runs commands periodically
+cron_eu=Admin, Time-based job scheduler
+sudo_eu=Admin, Execute a command as another user
+cpufrequtils_eu=Hardware, CPU frequency irqbalance
+smartmontools_eu=Hardware, S.M.A.R.T. monitoring tools
+acpid_eu=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_eu=Hardware, Advanced Configuration and Power Interface
+hddtemp_eu=Hardware, HDD temperature monitor
+gpm_eu=Hardware, Mouse event server
+acpi-fakekey_eu=Hardware, Generates key events for ACPI scripts
+dbus_eu=Hardware, Message bus daemon
+saned_eu=Hardware, Scanner daemon
+haveged_eu=Hardware, Random number generator
+avahi-daemon_eu=Hardware, Enables programs to publish and discover services and hosts
+network-manager_eu=Networking, Network connections
+wicd_eu=Networking, Network connections
+ssh_eu=Networking, Secure Shell
+nfs-kernel-server_eu=Networking, Linux NFS Network File System server component
+openVPN_eu=Networking, VPN program that creates secure connections
+bluetooth_eu=Networking, Bluetooth
+rsync_eu=Networking, File copying tool
+cups_eu=Printing, Linux and OS X printer service
+cups-browsed_eu=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
+# fa
+
+anacron_fa=Admin, Runs commands periodically
+cron_fa=Admin, Time-based job scheduler
+sudo_fa=Admin, Execute a command as another user
+cpufrequtils_fa=Hardware, CPU frequency irqbalance
+smartmontools_fa=Hardware, S.M.A.R.T. monitoring tools
+acpid_fa=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_fa=Hardware, Advanced Configuration and Power Interface
+hddtemp_fa=Hardware, HDD temperature monitor
+gpm_fa=Hardware, Mouse event server
+acpi-fakekey_fa=Hardware, Generates key events for ACPI scripts
+dbus_fa=Hardware, Message bus daemon
+saned_fa=Hardware, Scanner daemon
+haveged_fa=Hardware, Random number generator
+avahi-daemon_fa=Hardware, Enables programs to publish and discover services and hosts
+network-manager_fa=Networking, Network connections
+wicd_fa=Networking, Network connections
+ssh_fa=Networking, Secure Shell
+nfs-kernel-server_fa=Networking, Linux NFS Network File System server component
+openVPN_fa=Networking, VPN program that creates secure connections
+bluetooth_fa=Networking, Bluetooth
+rsync_fa=Networking, File copying tool
+cups_fa=Printing, Linux and OS X printer service
+cups-browsed_fa=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
 # fi
 
@@ -262,6 +392,32 @@ bluetooth_fr=Réseaux, Bluetooth
 rsync_fr=Réseaux, Outil de copie de fichier
 cups_fr=Imprimantes, Service d'impression pour Linux et OS X
 cups-browsed_fr=Imprimantes, Service de découverte d'imprimante de CUPS, Bonjour (zeroconf)
+
+# he_IL
+
+anacron_he_IL=Admin, Runs commands periodically
+cron_he_IL=Admin, Time-based job scheduler
+sudo_he_IL=Admin, Execute a command as another user
+cpufrequtils_he_IL=Hardware, CPU frequency irqbalance
+smartmontools_he_IL=Hardware, S.M.A.R.T. monitoring tools
+acpid_he_IL=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_he_IL=Hardware, Advanced Configuration and Power Interface
+hddtemp_he_IL=Hardware, HDD temperature monitor
+gpm_he_IL=Hardware, Mouse event server
+acpi-fakekey_he_IL=Hardware, Generates key events for ACPI scripts
+dbus_he_IL=Hardware, Message bus daemon
+saned_he_IL=Hardware, Scanner daemon
+haveged_he_IL=Hardware, Random number generator
+avahi-daemon_he_IL=Hardware, Enables programs to publish and discover services and hosts
+network-manager_he_IL=Networking, Network connections
+wicd_he_IL=Networking, Network connections
+ssh_he_IL=Networking, Secure Shell
+nfs-kernel-server_he_IL=Networking, Linux NFS Network File System server component
+openVPN_he_IL=Networking, VPN program that creates secure connections
+bluetooth_he_IL=Networking, Bluetooth
+rsync_he_IL=Networking, File copying tool
+cups_he_IL=Printing, Linux and OS X printer service
+cups-browsed_he_IL=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
 # hi
 
@@ -341,6 +497,32 @@ rsync_hu=Hálózatok, File copying tool
 cups_hu=Nyomtatás, Linux and OS X printer service
 cups-browsed_hu=Nyomtatás, CUPS Bonjour (zeroconf) printer discovery service
 
+# id
+
+anacron_id=Admin, Runs commands periodically
+cron_id=Admin, Time-based job scheduler
+sudo_id=Admin, Execute a command as another user
+cpufrequtils_id=Hardware, CPU frequency irqbalance
+smartmontools_id=Hardware, S.M.A.R.T. monitoring tools
+acpid_id=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_id=Hardware, Advanced Configuration and Power Interface
+hddtemp_id=Hardware, HDD temperature monitor
+gpm_id=Hardware, Mouse event server
+acpi-fakekey_id=Hardware, Generates key events for ACPI scripts
+dbus_id=Hardware, Message bus daemon
+saned_id=Hardware, Scanner daemon
+haveged_id=Hardware, Random number generator
+avahi-daemon_id=Hardware, Enables programs to publish and discover services and hosts
+network-manager_id=Networking, Network connections
+wicd_id=Networking, Network connections
+ssh_id=Networking, Secure Shell
+nfs-kernel-server_id=Networking, Linux NFS Network File System server component
+openVPN_id=Networking, VPN program that creates secure connections
+bluetooth_id=Networking, Bluetooth
+rsync_id=Networking, File copying tool
+cups_id=Printing, Linux and OS X printer service
+cups-browsed_id=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
 # is
 
 anacron_is=Kerfisstjórnun, Runs commands periodically
@@ -392,6 +574,32 @@ bluetooth_it=Impostazioni di rete, Bluetooth
 rsync_it=Impostazioni di rete, Strumento di copia File
 cups_it=Stampa, Servizio per la stampa in Linux e OS X
 cups-browsed_it=Stampa, CUPS Bonjour (zeroconf) servizio di rilevazione stampanti
+
+# ja_JP
+
+anacron_ja_JP=Admin, Runs commands periodically
+cron_ja_JP=Admin, Time-based job scheduler
+sudo_ja_JP=Admin, Execute a command as another user
+cpufrequtils_ja_JP=Hardware, CPU frequency irqbalance
+smartmontools_ja_JP=Hardware, S.M.A.R.T. monitoring tools
+acpid_ja_JP=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_ja_JP=Hardware, Advanced Configuration and Power Interface
+hddtemp_ja_JP=Hardware, HDD temperature monitor
+gpm_ja_JP=Hardware, Mouse event server
+acpi-fakekey_ja_JP=Hardware, Generates key events for ACPI scripts
+dbus_ja_JP=Hardware, Message bus daemon
+saned_ja_JP=Hardware, Scanner daemon
+haveged_ja_JP=Hardware, Random number generator
+avahi-daemon_ja_JP=Hardware, Enables programs to publish and discover services and hosts
+network-manager_ja_JP=Networking, Network connections
+wicd_ja_JP=Networking, Network connections
+ssh_ja_JP=Networking, Secure Shell
+nfs-kernel-server_ja_JP=Networking, Linux NFS Network File System server component
+openVPN_ja_JP=Networking, VPN program that creates secure connections
+bluetooth_ja_JP=Networking, Bluetooth
+rsync_ja_JP=Networking, File copying tool
+cups_ja_JP=Printing, Linux and OS X printer service
+cups-browsed_ja_JP=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
 # ja
 
@@ -445,6 +653,32 @@ rsync_kk=Networking, File copying tool
 cups_kk=Баспаға шығару, Linux and OS X printer service
 cups-browsed_kk=Баспаға шығару, CUPS Bonjour (zeroconf) printer discovery service
 
+# ko
+
+anacron_ko=Admin, Runs commands periodically
+cron_ko=Admin, Time-based job scheduler
+sudo_ko=Admin, Execute a command as another user
+cpufrequtils_ko=Hardware, CPU frequency irqbalance
+smartmontools_ko=Hardware, S.M.A.R.T. monitoring tools
+acpid_ko=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_ko=Hardware, Advanced Configuration and Power Interface
+hddtemp_ko=Hardware, HDD temperature monitor
+gpm_ko=Hardware, Mouse event server
+acpi-fakekey_ko=Hardware, Generates key events for ACPI scripts
+dbus_ko=Hardware, Message bus daemon
+saned_ko=Hardware, Scanner daemon
+haveged_ko=Hardware, Random number generator
+avahi-daemon_ko=Hardware, Enables programs to publish and discover services and hosts
+network-manager_ko=Networking, Network connections
+wicd_ko=Networking, Network connections
+ssh_ko=Networking, Secure Shell
+nfs-kernel-server_ko=Networking, Linux NFS Network File System server component
+openVPN_ko=Networking, VPN program that creates secure connections
+bluetooth_ko=Networking, Bluetooth
+rsync_ko=Networking, File copying tool
+cups_ko=Printing, Linux and OS X printer service
+cups-browsed_ko=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
 # lt
 
 anacron_lt=Administravimas, Periodiškai vykdo komandas
@@ -470,6 +704,58 @@ bluetooth_lt=Darbas tinkle, Bluetooth
 rsync_lt=Darbas tinkle, File copying tool
 cups_lt=Spausdinimas, Linux ir OS X spausdinimo tarnyba
 cups-browsed_lt=Spausdinimas, CUPS Bonjour (zeroconf) printer discovery service
+
+# mk
+
+anacron_mk=Admin, Runs commands periodically
+cron_mk=Admin, Time-based job scheduler
+sudo_mk=Admin, Execute a command as another user
+cpufrequtils_mk=Hardware, CPU frequency irqbalance
+smartmontools_mk=Hardware, S.M.A.R.T. monitoring tools
+acpid_mk=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_mk=Hardware, Advanced Configuration and Power Interface
+hddtemp_mk=Hardware, HDD temperature monitor
+gpm_mk=Hardware, Mouse event server
+acpi-fakekey_mk=Hardware, Generates key events for ACPI scripts
+dbus_mk=Hardware, Message bus daemon
+saned_mk=Hardware, Scanner daemon
+haveged_mk=Hardware, Random number generator
+avahi-daemon_mk=Hardware, Enables programs to publish and discover services and hosts
+network-manager_mk=Networking, Network connections
+wicd_mk=Networking, Network connections
+ssh_mk=Networking, Secure Shell
+nfs-kernel-server_mk=Networking, Linux NFS Network File System server component
+openVPN_mk=Networking, VPN program that creates secure connections
+bluetooth_mk=Networking, Bluetooth
+rsync_mk=Networking, File copying tool
+cups_mk=Printing, Linux and OS X printer service
+cups-browsed_mk=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
+# nb
+
+anacron_nb=Admin, Runs commands periodically
+cron_nb=Admin, Time-based job scheduler
+sudo_nb=Admin, Execute a command as another user
+cpufrequtils_nb=Maskinvare, CPU frequency irqbalance
+smartmontools_nb=Maskinvare, S.M.A.R.T. monitoring tools
+acpid_nb=Maskinvare, Advanced Configuration of Power Interface event daemon
+acpi-support_nb=Maskinvare, Advanced Configuration and Power Interface
+hddtemp_nb=Maskinvare, HDD temperature monitor
+gpm_nb=Maskinvare, Mouse event server
+acpi-fakekey_nb=Maskinvare, Generates key events for ACPI scripts
+dbus_nb=Maskinvare, Message bus daemon
+saned_nb=Maskinvare, Scanner daemon
+haveged_nb=Maskinvare, Random number generator
+avahi-daemon_nb=Maskinvare, Enables programs to publish and discover services and hosts
+network-manager_nb=Netverks, Network connections
+wicd_nb=Netverks, Network connections
+ssh_nb=Netverks, Secure Shell
+nfs-kernel-server_nb=Netverks, Linux NFS Network File System server component
+openVPN_nb=Netverks, VPN program that creates secure connections
+bluetooth_nb=Netverks, Bluetooth
+rsync_nb=Netverks, File copying tool
+cups_nb=Printing, Linux and OS X printer service
+cups-browsed_nb=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
 # nl
 
@@ -561,13 +847,13 @@ acpi-support_pt=Equipamento, Interface Avançada de Configuração e Energia / A
 hddtemp_pt=Equipamento, Monitor de temperatura do disco rígido
 gpm_pt=Equipamento, Servidor de eventos do rato
 acpi-fakekey_pt=Equipamento, Gera eventos-chave para scripts ACPI
-dbus_pt=Equipamento, Daemon de transporte de menssagens
+dbus_pt=Equipamento, Daemon de transporte de mensagens
 saned_pt=Equipamento, Daemon do scanner/digitalizador
 haveged_pt=Equipamento, Gerador de números aleatórios
-avahi-daemon_pt=Equipamento, Permite que os programas mostrem e descubram serviços e hospedeiros
+avahi-daemon_pt=Equipamento, Permite que os programas descubram e mostrem serviços e hospedeiros
 network-manager_pt=Redes, Ligações de rede
 wicd_pt=Redes, Ligações de rede
-ssh_pt=Redes, Shell segura
+ssh_pt=Redes, Interpretador (shell) seguro
 nfs-kernel-server_pt=Redes, Componente de servidor do Sistema de Ficheiros de Rede Linux NFS
 openVPN_pt=Redes, Programa de redes privadas virtuais (VPN) que cria ligações seguras
 bluetooth_pt=Redes, Bluetooth
@@ -705,6 +991,32 @@ rsync_sq=Networking, File copying tool
 cups_sq=Printing, Linux and OS X printer service
 cups-browsed_sq=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
+# sr
+
+anacron_sr=Admin, Runs commands periodically
+cron_sr=Admin, Time-based job scheduler
+sudo_sr=Admin, Execute a command as another user
+cpufrequtils_sr=Hardware, CPU frequency irqbalance
+smartmontools_sr=Hardware, S.M.A.R.T. monitoring tools
+acpid_sr=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_sr=Hardware, Advanced Configuration and Power Interface
+hddtemp_sr=Hardware, HDD temperature monitor
+gpm_sr=Hardware, Mouse event server
+acpi-fakekey_sr=Hardware, Generates key events for ACPI scripts
+dbus_sr=Hardware, Message bus daemon
+saned_sr=Hardware, Scanner daemon
+haveged_sr=Hardware, Random number generator
+avahi-daemon_sr=Hardware, Enables programs to publish and discover services and hosts
+network-manager_sr=Networking, Network connections
+wicd_sr=Networking, Network connections
+ssh_sr=Networking, Secure Shell
+nfs-kernel-server_sr=Networking, Linux NFS Network File System server component
+openVPN_sr=Networking, VPN program that creates secure connections
+bluetooth_sr=Networking, Bluetooth
+rsync_sr=Networking, File copying tool
+cups_sr=Printing, Linux and OS X printer service
+cups-browsed_sr=Printing, CUPS Bonjour (zeroconf) printer discovery service
+
 # sv
 
 anacron_sv=Administratör, Kör kommandon periodiskt
@@ -782,6 +1094,32 @@ bluetooth_uk=Мережа, Bluetooth
 rsync_uk=Мережа, File copying tool
 cups_uk=Друк, Linux and OS X printer service
 cups-browsed_uk=Друк, CUPS Bonjour (zeroconf) printer discovery service
+
+# zh_CN
+
+anacron_zh_CN=Admin, Runs commands periodically
+cron_zh_CN=Admin, Time-based job scheduler
+sudo_zh_CN=Admin, Execute a command as another user
+cpufrequtils_zh_CN=Hardware, CPU frequency irqbalance
+smartmontools_zh_CN=Hardware, S.M.A.R.T. monitoring tools
+acpid_zh_CN=Hardware, Advanced Configuration of Power Interface event daemon
+acpi-support_zh_CN=Hardware, Advanced Configuration and Power Interface
+hddtemp_zh_CN=Hardware, HDD temperature monitor
+gpm_zh_CN=Hardware, Mouse event server
+acpi-fakekey_zh_CN=Hardware, Generates key events for ACPI scripts
+dbus_zh_CN=Hardware, Message bus daemon
+saned_zh_CN=Hardware, Scanner daemon
+haveged_zh_CN=Hardware, Random number generator
+avahi-daemon_zh_CN=Hardware, Enables programs to publish and discover services and hosts
+network-manager_zh_CN=Networking, Network connections
+wicd_zh_CN=Networking, Network connections
+ssh_zh_CN=Networking, Secure Shell
+nfs-kernel-server_zh_CN=Networking, Linux NFS Network File System server component
+openVPN_zh_CN=Networking, VPN program that creates secure connections
+bluetooth_zh_CN=Networking, Bluetooth
+rsync_zh_CN=Networking, File copying tool
+cups_zh_CN=Printing, Linux and OS X printer service
+cups-browsed_zh_CN=Printing, CUPS Bonjour (zeroconf) printer discovery service
 
 # zh_TW
 
