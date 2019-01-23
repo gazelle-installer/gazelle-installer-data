@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Wed, 23 Jan 2019 09:28:16 -0500
+Source: gazelle-installer-data
+Binary: gazelle-installer-data
+Architecture: source all
+Version: 19.1
+Distribution: mx
+Urgency: medium
+Maintainer: dolphin oracle  <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ gazelle-installer-data - Branding and installer.conf data for gazelle-installer
+Changes:
+ gazelle-installer-data (19.1) mx; urgency=medium
+ .
+   * updated translations
+Checksums-Sha1:
+ 180eba742c86e0dd1469199074bfe3259fe75424 1238 gazelle-installer-data_19.1.dsc
+ 4c7c3c57030737cc969afd22c2c4d2a347f69069 209108 gazelle-installer-data_19.1.tar.xz
+ 734411c30e2d61122e983da22a88971a1294a8b6 198632 gazelle-installer-data_19.1_all.deb
+ f43c3b088fbc641a8803aa3c62160f548f93fafd 5635 gazelle-installer-data_19.1_amd64.buildinfo
+Checksums-Sha256:
+ cb90a34348812b0a6c2f5440e508ee794d248ff5a42dc7178b196fc25f9d10fb 1238 gazelle-installer-data_19.1.dsc
+ b8b500de58f3194e45d68c40d153bdeab775bfbac4b53031afdec103287b0f3e 209108 gazelle-installer-data_19.1.tar.xz
+ f945b3da1ae262c81666b9bf21e8e93cc18e215e7c01b79f23f89d0ec4f62788 198632 gazelle-installer-data_19.1_all.deb
+ 177d1ec5b3857cd7a844763b34d6407c205104a6cd01feeba940dd662242aebf 5635 gazelle-installer-data_19.1_amd64.buildinfo
+Files:
+ 05b917647f3e1605c1071d17c8aa229a 1238 admin optional gazelle-installer-data_19.1.dsc
+ b1bd078a5cc7c121e84825e8a8466aec 209108 admin optional gazelle-installer-data_19.1.tar.xz
+ 1adbfaf9e7523f46614992cb267f89b3 198632 admin optional gazelle-installer-data_19.1_all.deb
+ 72923b2a69c841ff28a4fc9c591fe0fd 5635 admin optional gazelle-installer-data_19.1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAlxIeh4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumM7AB/9R6WLfAMIToqTUDftwghwi0Ta/McH2
+OPotM/iNmbM0It6qZF0RjgnuOFbcz3s5uDf5/RFAjlJZF5kpTV6knP2OIuvEDGko
+otdD2wn3zQAPqkv9+CMMO989+MpRvTSUt6ucg8Sl4MTpYaMZHIGQbV3zkbASAPti
+nl5vfq5rakhdzP3W8TgCFoeY0fRbjttyagSLQR5vo1oWIgi6E5wEW0x14Ie8iGes
+/opqlZVMTNC2AHNS974New93r+S2WVRdmYOn94cwABKkWsIDM3o9bGEMNvHEQQy7
+DGh3uxzCROcN0B7cbh36IMTw9rRugOTr3Q91JNDXzcKtUTudNPYEmOhh
+=/JpO
+-----END PGP SIGNATURE-----

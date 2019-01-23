@@ -1,3 +1,15 @@
+gazelle-installer-data (19.1) mx; urgency=medium
+
+  * updated translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 23 Jan 2019 09:28:16 -0500
+
+gazelle-installer-data (18.10) mx; urgency=medium
+
+  * updated translations
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 14 Oct 2018 18:42:57 -0400
+
 gazelle-installer-data (18.5.1) mx; urgency=medium
 
   * moved rc.local.install and live-to-installed to data package 
