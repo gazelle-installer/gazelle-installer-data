@@ -1,3 +1,9 @@
+gazelle-installer-data (19.2.01) mx; urgency=medium
+
+  * added plymouth to services.list 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 22 Feb 2019 22:20:53 -0500
+
 gazelle-installer-data (19.1) mx; urgency=medium
 
   * updated translations

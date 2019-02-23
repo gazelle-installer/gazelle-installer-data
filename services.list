@@ -28,6 +28,7 @@ bluetooth=Networking, Bluetooth
 rsync=Networking, File copying tool
 cups=Printing, Linux and OS X printer service
 cups-browsed=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth=Admin, Plymouth boot splash
 
 # am
 
@@ -54,6 +55,7 @@ bluetooth_am=ኔትዎርክ, ብሉቱዝ
 rsync_am=ኔትዎርክ, File copying tool
 cups_am=በ ማተም ላይ, Linux and OS X የ ማተሚያ ግልጋሎት
 cups-browsed_am=በ ማተም ላይ, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_am=Admin, Plymouth boot splash
 
 # ar
 
@@ -80,6 +82,7 @@ bluetooth_ar=Networking, Bluetooth
 rsync_ar=Networking, File copying tool
 cups_ar=Printing, Linux and OS X printer service
 cups-browsed_ar=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_ar=Admin, Plymouth boot splash
 
 # bg
 
@@ -106,6 +109,7 @@ bluetooth_bg=Networking, Bluetooth
 rsync_bg=Networking, File copying tool
 cups_bg=Printing, Linux and OS X printer service
 cups-browsed_bg=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_bg=Admin, Plymouth boot splash
 
 # ca
 
@@ -132,6 +136,7 @@ bluetooth_ca=Xarxa, Bluetooth
 rsync_ca=Xarxa, Eina de còpia de fitxers
 cups_ca=Impressió , Servei d'impressió per a Linux i OS X
 cups-browsed_ca=Impressió , Servei de descoberta d'impressores CUPS Bonjour (zeroconf)
+plymouth_ca=Administració, Plymouth boot splash
 
 # cs
 
@@ -158,6 +163,7 @@ bluetooth_cs=Síť, Bluetooth
 rsync_cs=Síť, File copying tool
 cups_cs=Tisk, Linux a OSX služby tisku
 cups-browsed_cs=Tisk, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_cs=Admin, Plymouth boot splash
 
 # da
 
@@ -184,6 +190,7 @@ bluetooth_da=Netværk, Bluetooth
 rsync_da=Netværk, Filkopieringsværktøj
 cups_da=Udskrivning, Linux- og OS X-printertjeneste
 cups-browsed_da=Udskrivning, CUPS Bonjour (zeroconf) -printeropdagelsestjeneste
+plymouth_da=Administration, Plymouth boot splash
 
 # de
 
@@ -210,6 +217,7 @@ bluetooth_de=Netzwerkeinstellungen, Bluetooth
 rsync_de=Netzwerkeinstellungen, Werkzeug zum Kopieren von Dateien
 cups_de=Drucken, Linux und OS X Druckerdienst
 cups-browsed_de=Drucken, CUPS Bonjour (zeroconf) Dienst zum Druckerauffinden
+plymouth_de=Administration, Plymouth boot splash
 
 # el
 
@@ -236,6 +244,7 @@ bluetooth_el=Δικτύωση, Bluetooth
 rsync_el=Δικτύωση, Εργαλείο αντιγραφής αρχείων
 cups_el=Εκτύπωση, Linux and OS X printer service
 cups-browsed_el=Εκτύπωση, Υπηρεσία εντοπισμού εκτυπωτών CUPS Bonjour (zeroconf)
+plymouth_el=Διαχείριση, Plymouth boot splash
 
 # es
 
@@ -262,6 +271,7 @@ bluetooth_es=Conexión entre redes, Bluetooth
 rsync_es=Conexión entre redes, Herramienta para copiar ficheros
 cups_es=Impresión, Servicio de impresión para Linux y OS X
 cups-browsed_es=Impresión, CUPS Bonjour (zeroconf) servicio para visualización de impresoras
+plymouth_es=Admin, Plymouth boot splash
 
 # et
 
@@ -288,6 +298,7 @@ bluetooth_et=Networking, Bluetooth
 rsync_et=Networking, File copying tool
 cups_et=Printing, Linux and OS X printer service
 cups-browsed_et=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_et=Admin, Plymouth boot splash
 
 # eu
 
@@ -314,6 +325,7 @@ bluetooth_eu=Networking, Bluetooth
 rsync_eu=Networking, File copying tool
 cups_eu=Printing, Linux and OS X printer service
 cups-browsed_eu=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_eu=Admin, Plymouth boot splash
 
 # fa
 
@@ -340,6 +352,7 @@ bluetooth_fa=Networking, Bluetooth
 rsync_fa=Networking, File copying tool
 cups_fa=Printing, Linux and OS X printer service
 cups-browsed_fa=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_fa=Admin, Plymouth boot splash
 
 # fi
 
@@ -366,6 +379,7 @@ bluetooth_fi=Verkko, Bluetooth
 rsync_fi=Verkko, Tiedostojen kopiointityökalu
 cups_fi=Tulostus, Linux and OS X printer service
 cups-browsed_fi=Tulostus, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_fi=Ylläpitäjä, Plymouth boot splash
 
 # fr
 
@@ -392,6 +406,7 @@ bluetooth_fr=Réseaux, Bluetooth
 rsync_fr=Réseaux, Outil de copie de fichier
 cups_fr=Imprimantes, Service d'impression pour Linux et OS X
 cups-browsed_fr=Imprimantes, Service de découverte d'imprimante de CUPS, Bonjour (zeroconf)
+plymouth_fr=Administrateur, Plymouth boot splash
 
 # he_IL
 
@@ -418,6 +433,7 @@ bluetooth_he_IL=Networking, Bluetooth
 rsync_he_IL=Networking, File copying tool
 cups_he_IL=Printing, Linux and OS X printer service
 cups-browsed_he_IL=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_he_IL=Admin, Plymouth boot splash
 
 # hi
 
@@ -444,6 +460,7 @@ bluetooth_hi=नेटवर्किंग, ब्लूटूथ
 rsync_hi=नेटवर्किंग, File copying tool
 cups_hi=प्रिंटिंग, Linux and OS X printer service
 cups-browsed_hi=प्रिंटिंग, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_hi=प्रबंधक, Plymouth boot splash
 
 # hr
 
@@ -470,6 +487,7 @@ bluetooth_hr=Networking, Bluetooth
 rsync_hr=Networking, Alat za kopiranje datoteka
 cups_hr=Ispisivanje, Linux i OS X servis ispisa
 cups-browsed_hr=Ispisivanje, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_hr=Admin, Plymouth boot splash
 
 # hu
 
@@ -496,6 +514,7 @@ bluetooth_hu=Hálózatok, Bluetooth
 rsync_hu=Hálózatok, File copying tool
 cups_hu=Nyomtatás, Linux and OS X printer service
 cups-browsed_hu=Nyomtatás, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_hu=Admin, Plymouth boot splash
 
 # id
 
@@ -522,6 +541,7 @@ bluetooth_id=Networking, Bluetooth
 rsync_id=Networking, File copying tool
 cups_id=Printing, Linux and OS X printer service
 cups-browsed_id=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_id=Admin, Plymouth boot splash
 
 # is
 
@@ -548,6 +568,7 @@ bluetooth_is=Netkerfi, Bluetooth
 rsync_is=Netkerfi, File copying tool
 cups_is=Prentun, Linux and OS X printer service
 cups-browsed_is=Prentun, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_is=Kerfisstjórnun, Plymouth boot splash
 
 # it
 
@@ -574,6 +595,7 @@ bluetooth_it=Impostazioni di rete, Bluetooth
 rsync_it=Impostazioni di rete, Strumento di copia File
 cups_it=Stampa, Servizio per la stampa in Linux e OS X
 cups-browsed_it=Stampa, CUPS Bonjour (zeroconf) servizio di rilevazione stampanti
+plymouth_it=Amministrazione, Plymouth boot splash
 
 # ja_JP
 
@@ -600,6 +622,7 @@ bluetooth_ja_JP=Networking, Bluetooth
 rsync_ja_JP=Networking, File copying tool
 cups_ja_JP=Printing, Linux and OS X printer service
 cups-browsed_ja_JP=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_ja_JP=Admin, Plymouth boot splash
 
 # ja
 
@@ -626,6 +649,7 @@ bluetooth_ja=ネットワーク, Bluetooth
 rsync_ja=ネットワーク, File copying tool
 cups_ja=印刷中, Linux・OS X 印刷サービス
 cups-browsed_ja=印刷中, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_ja=Admin, Plymouth boot splash
 
 # kk
 
@@ -652,6 +676,7 @@ bluetooth_kk=Networking, Bluetooth
 rsync_kk=Networking, File copying tool
 cups_kk=Баспаға шығару, Linux and OS X printer service
 cups-browsed_kk=Баспаға шығару, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_kk=Admin, Plymouth boot splash
 
 # ko
 
@@ -678,6 +703,7 @@ bluetooth_ko=Networking, Bluetooth
 rsync_ko=Networking, File copying tool
 cups_ko=Printing, Linux and OS X printer service
 cups-browsed_ko=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_ko=Admin, Plymouth boot splash
 
 # lt
 
@@ -704,6 +730,7 @@ bluetooth_lt=Darbas tinkle, Bluetooth
 rsync_lt=Darbas tinkle, File copying tool
 cups_lt=Spausdinimas, Linux ir OS X spausdinimo tarnyba
 cups-browsed_lt=Spausdinimas, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_lt=Administravimas, Plymouth boot splash
 
 # mk
 
@@ -730,6 +757,7 @@ bluetooth_mk=Networking, Bluetooth
 rsync_mk=Networking, File copying tool
 cups_mk=Printing, Linux and OS X printer service
 cups-browsed_mk=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_mk=Admin, Plymouth boot splash
 
 # nb
 
@@ -756,6 +784,7 @@ bluetooth_nb=Netverks, Bluetooth
 rsync_nb=Netverks, File copying tool
 cups_nb=Printing, Linux and OS X printer service
 cups-browsed_nb=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_nb=Admin, Plymouth boot splash
 
 # nl
 
@@ -782,6 +811,7 @@ bluetooth_nl=Netwerken, Bluetooth
 rsync_nl=Netwerken, Bestand kopiëergereedschap
 cups_nl=Afdrukken, Linux and OS X printer service
 cups-browsed_nl=Afdrukken, CUPS Bonjour (zeroconf) printer vinder service
+plymouth_nl=Admin, Plymouth boot splash
 
 # pl
 
@@ -808,6 +838,7 @@ bluetooth_pl=Sieciowe, Bluetooth
 rsync_pl=Sieciowe, File copying tool
 cups_pl=Drukowanie, Usługa druku systemów Linux i OS X
 cups-browsed_pl=Drukowanie, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_pl=Admin, Plymouth boot splash
 
 # pt_BR
 
@@ -834,6 +865,7 @@ bluetooth_pt_BR=Rede, Bluetooth
 rsync_pt_BR=Rede, Ferramenta de cópia de arquivos
 cups_pt_BR=Impressão, Serviço de impressoras para Linux e OS X
 cups-browsed_pt_BR=Impressão, Serviço descobridor de impressoras - CUPS Bonjour (zeroconf)
+plymouth_pt_BR=Administrador, Plymouth boot splash
 
 # pt
 
@@ -860,6 +892,7 @@ bluetooth_pt=Redes, Bluetooth
 rsync_pt=Redes, Ferramenta de cópia de ficheiros
 cups_pt=Imprimir, Serviço de impressoras para Linux e OS X
 cups-browsed_pt=Imprimir, Serviço de detecção de impressoras CUPS Bonjour (ou DNS Service Discovery)
+plymouth_pt=Administrar, Plymouth boot splash
 
 # ro
 
@@ -886,6 +919,7 @@ bluetooth_ro=Rețea, Bluetooth
 rsync_ro=Rețea, File copying tool
 cups_ro=Tipărire, Linux and OS X printer service
 cups-browsed_ro=Tipărire, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_ro=Admin, Plymouth boot splash
 
 # ru
 
@@ -912,6 +946,7 @@ bluetooth_ru=Сеть, Блютуз
 rsync_ru=Сеть, Утилита копирования файлов
 cups_ru=Печать, Служба принтера Linux и OS X
 cups-browsed_ru=Печать, Служба общего доступа к принтерам CUPS Bonjour
+plymouth_ru=Admin, Plymouth boot splash
 
 # sk
 
@@ -938,6 +973,7 @@ bluetooth_sk=Sieť, Bluetooth
 rsync_sk=Sieť, File copying tool
 cups_sk=Tlač, Služba tlače pre Linux a OS X
 cups-browsed_sk=Tlač, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_sk=Admin, Plymouth boot splash
 
 # sl
 
@@ -964,6 +1000,7 @@ bluetooth_sl=Omrežje, Bluetooth
 rsync_sl=Omrežje, File copying tool
 cups_sl=Tiskanje, Linux and OS X printer service
 cups-browsed_sl=Tiskanje, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_sl=Administrator, Plymouth boot splash
 
 # sq
 
@@ -990,6 +1027,7 @@ bluetooth_sq=Networking, Bluetooth
 rsync_sq=Networking, File copying tool
 cups_sq=Printing, Linux and OS X printer service
 cups-browsed_sq=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_sq=Admin, Plymouth boot splash
 
 # sr
 
@@ -1016,6 +1054,7 @@ bluetooth_sr=Networking, Bluetooth
 rsync_sr=Networking, File copying tool
 cups_sr=Printing, Linux and OS X printer service
 cups-browsed_sr=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_sr=Admin, Plymouth boot splash
 
 # sv
 
@@ -1042,6 +1081,7 @@ bluetooth_sv=Nätverk, Bluetooth
 rsync_sv=Nätverk, Filkopieringsverktyg
 cups_sv=Utskrifter, Linux och OS X skrivartjänst
 cups-browsed_sv=Utskrifter, CUPS Bonjour (zeroconf) sevice för att hitta skrivare
+plymouth_sv=Administratör, Plymouth boot splash
 
 # tr
 
@@ -1068,6 +1108,7 @@ bluetooth_tr=Ağ kurma, Bluetooth
 rsync_tr=Ağ kurma, File copying tool
 cups_tr=Yazdırılıyor, Linux ve OS X yazıcı hizmeti
 cups-browsed_tr=Yazdırılıyor, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_tr=Yönetici, Plymouth boot splash
 
 # uk
 
@@ -1094,6 +1135,7 @@ bluetooth_uk=Мережа, Bluetooth
 rsync_uk=Мережа, File copying tool
 cups_uk=Друк, Linux and OS X printer service
 cups-browsed_uk=Друк, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_uk=Admin, Plymouth boot splash
 
 # zh_CN
 
@@ -1120,6 +1162,7 @@ bluetooth_zh_CN=Networking, Bluetooth
 rsync_zh_CN=Networking, File copying tool
 cups_zh_CN=Printing, Linux and OS X printer service
 cups-browsed_zh_CN=Printing, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_zh_CN=Admin, Plymouth boot splash
 
 # zh_TW
 
@@ -1146,3 +1189,4 @@ bluetooth_zh_TW=網路, Bluetooth
 rsync_zh_TW=網路, File copying tool
 cups_zh_TW=列印, Linux and OS X printer service
 cups-browsed_zh_TW=列印, CUPS Bonjour (zeroconf) printer discovery service
+plymouth_zh_TW=管理, Plymouth boot splash
