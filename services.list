@@ -8,6 +8,7 @@
 anacron=Admin, Runs commands periodically
 cron=Admin, Time-based job scheduler
 sudo=Admin, Execute a command as another user
+plymouth=Admin, Plymouth boot splash
 cpufrequtils=Hardware, CPU frequency irqbalance
 smartmontools=Hardware, S.M.A.R.T. monitoring tools
 acpid=Hardware, Advanced Configuration of Power Interface event daemon
@@ -28,13 +29,13 @@ bluetooth=Networking, Bluetooth
 rsync=Networking, File copying tool
 cups=Printing, Linux and OS X printer service
 cups-browsed=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth=Admin, Plymouth boot splash
 
 # am
 
 anacron_am=Admin, አንዳንድ ጊዜ ትእዛዝ ማስኬጃ
 cron_am=Admin, ጊዜ-መሰረት ያደረገ ስራ ማሰናጃ
 sudo_am=Admin, እንደ ሌላ ተጠቃሚ ትእዛዝ መፈጸሚያ
+plymouth_am=Admin, Plymouth boot splash
 cpufrequtils_am=ጠንካራ አካል, CPU frequency irqbalance
 smartmontools_am=ጠንካራ አካል, S.M.A.R.T. መቆጣጠሪያ መሳሪያዎች
 acpid_am=ጠንካራ አካል, Advanced Configuration of Power Interface event daemon
@@ -55,13 +56,13 @@ bluetooth_am=ኔትዎርክ, ብሉቱዝ
 rsync_am=ኔትዎርክ, File copying tool
 cups_am=በ ማተም ላይ, Linux and OS X የ ማተሚያ ግልጋሎት
 cups-browsed_am=በ ማተም ላይ, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_am=Admin, Plymouth boot splash
 
 # ar
 
 anacron_ar=Admin, Runs commands periodically
 cron_ar=Admin, Time-based job scheduler
 sudo_ar=Admin, Execute a command as another user
+plymouth_ar=Admin, Plymouth boot splash
 cpufrequtils_ar= الأجهزة, CPU frequency irqbalance
 smartmontools_ar= الأجهزة, S.M.A.R.T. monitoring tools
 acpid_ar= الأجهزة, Advanced Configuration of Power Interface event daemon
@@ -82,13 +83,13 @@ bluetooth_ar=Networking, Bluetooth
 rsync_ar=Networking, File copying tool
 cups_ar=Printing, Linux and OS X printer service
 cups-browsed_ar=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_ar=Admin, Plymouth boot splash
 
 # bg
 
 anacron_bg=Admin, Runs commands periodically
 cron_bg=Admin, Time-based job scheduler
 sudo_bg=Admin, Execute a command as another user
+plymouth_bg=Admin, Plymouth boot splash
 cpufrequtils_bg=Хардуер, CPU frequency irqbalance
 smartmontools_bg=Хардуер, S.M.A.R.T. monitoring tools
 acpid_bg=Хардуер, Advanced Configuration of Power Interface event daemon
@@ -109,13 +110,13 @@ bluetooth_bg=Networking, Bluetooth
 rsync_bg=Networking, File copying tool
 cups_bg=Printing, Linux and OS X printer service
 cups-browsed_bg=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_bg=Admin, Plymouth boot splash
 
 # ca
 
 anacron_ca=Administració, Executa ordres periòdicament
 cron_ca=Administració, Planificació de tasques en el temps
 sudo_ca=Administració, Executa una ordre com un altre usuari
+plymouth_ca=Administració, Plymouth boot splash
 cpufrequtils_ca=Maquinari , Freqüència CPU - Equilibri IRQ
 smartmontools_ca=Maquinari , Eines de seguiment S.M.A.R.T.
 acpid_ca=Maquinari , Configuració avançada del dimoni d'esdeveniments de la interfície d'alimentació
@@ -136,13 +137,13 @@ bluetooth_ca=Xarxa, Bluetooth
 rsync_ca=Xarxa, Eina de còpia de fitxers
 cups_ca=Impressió , Servei d'impressió per a Linux i OS X
 cups-browsed_ca=Impressió , Servei de descoberta d'impressores CUPS Bonjour (zeroconf)
-plymouth_ca=Administració, Plymouth boot splash
 
 # cs
 
 anacron_cs=Admin, Spouští příkazy periodicky
 cron_cs=Admin, Plánovač úkolů
 sudo_cs=Admin, Spustit příkaz jako jiný uživatel
+plymouth_cs=Admin, Plymouth boot splash
 cpufrequtils_cs=Hardware, CPU frequency irqbalance
 smartmontools_cs=Hardware, Monitorovací nástroje S.M.A.R.T.
 acpid_cs=Hardware, Advanced Configuration of Power Interface event daemon
@@ -163,13 +164,13 @@ bluetooth_cs=Síť, Bluetooth
 rsync_cs=Síť, File copying tool
 cups_cs=Tisk, Linux a OSX služby tisku
 cups-browsed_cs=Tisk, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_cs=Admin, Plymouth boot splash
 
 # da
 
 anacron_da=Administration, Kører kommandoer periodisk
 cron_da=Administration, Tidsbaseret jobplanlægger
 sudo_da=Administration, Eksekver en kommando som en anden bruger
+plymouth_da=Administration, Plymouth boot splash
 cpufrequtils_da=Hardware, IRQ-balance for CPU-frekvens
 smartmontools_da=Hardware, Værktøjer til S.M.A.R.T.-overvågning
 acpid_da=Hardware, Avanceret konfiguration af hændelsesdæmon for strømstyring
@@ -190,13 +191,13 @@ bluetooth_da=Netværk, Bluetooth
 rsync_da=Netværk, Filkopieringsværktøj
 cups_da=Udskrivning, Linux- og OS X-printertjeneste
 cups-browsed_da=Udskrivning, CUPS Bonjour (zeroconf) -printeropdagelsestjeneste
-plymouth_da=Administration, Plymouth boot splash
 
 # de
 
 anacron_de=Administration, Befehle periodisch ausführen
 cron_de=Administration, Planer zeitabhängiger Aufträge
 sudo_de=Administration, Befehl als anderer Benutzer ausführen
+plymouth_de=Administration, Plymouth boot splash
 cpufrequtils_de=Hardware, CPU Frequenz IRQ-Balance
 smartmontools_de=Hardware, S.M.A.R.T. Überwachungswerkzeug
 acpid_de=Hardware, Erweiterte Konfiguration des Ereignisdaemons für die Stromversorgungsschnittstelle
@@ -217,13 +218,13 @@ bluetooth_de=Netzwerkeinstellungen, Bluetooth
 rsync_de=Netzwerkeinstellungen, Werkzeug zum Kopieren von Dateien
 cups_de=Drucken, Linux und OS X Druckerdienst
 cups-browsed_de=Drucken, CUPS Bonjour (zeroconf) Dienst zum Druckerauffinden
-plymouth_de=Administration, Plymouth boot splash
 
 # el
 
 anacron_el=Διαχείριση, Runs commands periodically
 cron_el=Διαχείριση, Time-based job scheduler
 sudo_el=Διαχείριση, Execute a command as another user
+plymouth_el=Διαχείριση, Plymouth boot splash
 cpufrequtils_el=Υλικό (Hardware), Ισορροπία συχνότητας CPU
 smartmontools_el=Υλικό (Hardware), S.M.A.R.T. monitoring tools
 acpid_el=Υλικό (Hardware), Advanced Configuration of Power Interface event daemon
@@ -244,13 +245,13 @@ bluetooth_el=Δικτύωση, Bluetooth
 rsync_el=Δικτύωση, Εργαλείο αντιγραφής αρχείων
 cups_el=Εκτύπωση, Linux and OS X printer service
 cups-browsed_el=Εκτύπωση, Υπηρεσία εντοπισμού εκτυπωτών CUPS Bonjour (zeroconf)
-plymouth_el=Διαχείριση, Plymouth boot splash
 
 # es
 
 anacron_es=Admin, Ejecuta órdenes periódicamente
 cron_es=Admin, Temporizador de tareas basadas en horarios
 sudo_es=Admin, Ejecutar órdenes como otro usuario
+plymouth_es=Admin, Plymouth boot splash
 cpufrequtils_es=Equipo físico, CPU frequencia irqbalance
 smartmontools_es=Equipo físico, Herramientas S.M.A.R.T.
 acpid_es=Equipo físico, Configuración avanzada del daemon de eventos de Power Interface
@@ -271,13 +272,13 @@ bluetooth_es=Conexión entre redes, Bluetooth
 rsync_es=Conexión entre redes, Herramienta para copiar ficheros
 cups_es=Impresión, Servicio de impresión para Linux y OS X
 cups-browsed_es=Impresión, CUPS Bonjour (zeroconf) servicio para visualización de impresoras
-plymouth_es=Admin, Plymouth boot splash
 
 # et
 
 anacron_et=Admin, Runs commands periodically
 cron_et=Admin, Time-based job scheduler
 sudo_et=Admin, Execute a command as another user
+plymouth_et=Admin, Plymouth boot splash
 cpufrequtils_et=Hardware, CPU frequency irqbalance
 smartmontools_et=Hardware, S.M.A.R.T. monitoring tools
 acpid_et=Hardware, Advanced Configuration of Power Interface event daemon
@@ -298,13 +299,13 @@ bluetooth_et=Networking, Bluetooth
 rsync_et=Networking, File copying tool
 cups_et=Printing, Linux and OS X printer service
 cups-browsed_et=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_et=Admin, Plymouth boot splash
 
 # eu
 
 anacron_eu=Admin, Runs commands periodically
 cron_eu=Admin, Time-based job scheduler
 sudo_eu=Admin, Execute a command as another user
+plymouth_eu=Admin, Plymouth boot splash
 cpufrequtils_eu=Hardware, CPU frequency irqbalance
 smartmontools_eu=Hardware, S.M.A.R.T. monitoring tools
 acpid_eu=Hardware, Advanced Configuration of Power Interface event daemon
@@ -325,13 +326,13 @@ bluetooth_eu=Networking, Bluetooth
 rsync_eu=Networking, File copying tool
 cups_eu=Printing, Linux and OS X printer service
 cups-browsed_eu=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_eu=Admin, Plymouth boot splash
 
 # fa
 
 anacron_fa=Admin, Runs commands periodically
 cron_fa=Admin, Time-based job scheduler
 sudo_fa=Admin, Execute a command as another user
+plymouth_fa=Admin, Plymouth boot splash
 cpufrequtils_fa=Hardware, CPU frequency irqbalance
 smartmontools_fa=Hardware, S.M.A.R.T. monitoring tools
 acpid_fa=Hardware, Advanced Configuration of Power Interface event daemon
@@ -352,13 +353,13 @@ bluetooth_fa=Networking, Bluetooth
 rsync_fa=Networking, File copying tool
 cups_fa=Printing, Linux and OS X printer service
 cups-browsed_fa=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_fa=Admin, Plymouth boot splash
 
 # fi
 
 anacron_fi=Ylläpitäjä, Suorittaa komennot säännöllisesti
 cron_fi=Ylläpitäjä, Time-based job scheduler
 sudo_fi=Ylläpitäjä, Suorittaa komennon toisena käyttäjänä
+plymouth_fi=Ylläpitäjä, Plymouth boot splash
 cpufrequtils_fi=Laitteisto, CPU frequency irqbalance
 smartmontools_fi=Laitteisto, S.M.A.R.T. valvontatyökalut
 acpid_fi=Laitteisto, Advanced Configuration of Power Interface event daemon
@@ -379,13 +380,13 @@ bluetooth_fi=Verkko, Bluetooth
 rsync_fi=Verkko, Tiedostojen kopiointityökalu
 cups_fi=Tulostus, Linux and OS X printer service
 cups-browsed_fi=Tulostus, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_fi=Ylläpitäjä, Plymouth boot splash
 
 # fr
 
 anacron_fr=Administrateur, Exécute périodiquement des commandes
 cron_fr=Administrateur, Planificateur temporel de tâches
 sudo_fr=Administrateur, Lancer une commande comme autre utilisateur
+plymouth_fr=Administrateur, Plymouth boot splash
 cpufrequtils_fr=Matériel, Fréquence du CPU, irqbalance
 smartmontools_fr=Matériel, Outils de surveillance S.M.A.R.T.
 acpid_fr=Matériel, Démon d'interface événementiel avancée de configuration et de gestion de l'énergie (ACPI)
@@ -406,13 +407,13 @@ bluetooth_fr=Réseaux, Bluetooth
 rsync_fr=Réseaux, Outil de copie de fichier
 cups_fr=Imprimantes, Service d'impression pour Linux et OS X
 cups-browsed_fr=Imprimantes, Service de découverte d'imprimante de CUPS, Bonjour (zeroconf)
-plymouth_fr=Administrateur, Plymouth boot splash
 
 # he_IL
 
 anacron_he_IL=Admin, Runs commands periodically
 cron_he_IL=Admin, Time-based job scheduler
 sudo_he_IL=Admin, Execute a command as another user
+plymouth_he_IL=Admin, Plymouth boot splash
 cpufrequtils_he_IL=Hardware, CPU frequency irqbalance
 smartmontools_he_IL=Hardware, S.M.A.R.T. monitoring tools
 acpid_he_IL=Hardware, Advanced Configuration of Power Interface event daemon
@@ -433,13 +434,13 @@ bluetooth_he_IL=Networking, Bluetooth
 rsync_he_IL=Networking, File copying tool
 cups_he_IL=Printing, Linux and OS X printer service
 cups-browsed_he_IL=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_he_IL=Admin, Plymouth boot splash
 
 # hi
 
 anacron_hi=प्रबंधक, Runs commands periodically
 cron_hi=प्रबंधक, Time-based job scheduler
 sudo_hi=प्रबंधक, Execute a command as another user
+plymouth_hi=प्रबंधक, Plymouth boot splash
 cpufrequtils_hi=हार्डवेयर, CPU frequency irqbalance
 smartmontools_hi=हार्डवेयर, S.M.A.R.T. monitoring tools
 acpid_hi=हार्डवेयर, Advanced Configuration of Power Interface event daemon
@@ -460,13 +461,13 @@ bluetooth_hi=नेटवर्किंग, ब्लूटूथ
 rsync_hi=नेटवर्किंग, File copying tool
 cups_hi=प्रिंटिंग, Linux and OS X printer service
 cups-browsed_hi=प्रिंटिंग, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_hi=प्रबंधक, Plymouth boot splash
 
 # hr
 
 anacron_hr=Admin, Pokreće naredbe periodično
 cron_hr=Admin, Time-based job scheduler
 sudo_hr=Admin, Izvršite naredbu kao drugi korisnik
+plymouth_hr=Admin, Plymouth boot splash
 cpufrequtils_hr=Sklopovlje, CPU frequency irqbalance
 smartmontools_hr=Sklopovlje, S.M.A.R.T. monitoring tools
 acpid_hr=Sklopovlje, Advanced Configuration of Power Interface event daemon
@@ -487,13 +488,13 @@ bluetooth_hr=Networking, Bluetooth
 rsync_hr=Networking, Alat za kopiranje datoteka
 cups_hr=Ispisivanje, Linux i OS X servis ispisa
 cups-browsed_hr=Ispisivanje, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_hr=Admin, Plymouth boot splash
 
 # hu
 
 anacron_hu=Admin, Runs commands periodically
 cron_hu=Admin, Time-based job scheduler
 sudo_hu=Admin, Execute a command as another user
+plymouth_hu=Admin, Plymouth boot splash
 cpufrequtils_hu=Hardver, CPU frequency irqbalance
 smartmontools_hu=Hardver, S.M.A.R.T. monitoring tools
 acpid_hu=Hardver, Advanced Configuration of Power Interface event daemon
@@ -514,13 +515,13 @@ bluetooth_hu=Hálózatok, Bluetooth
 rsync_hu=Hálózatok, File copying tool
 cups_hu=Nyomtatás, Linux and OS X printer service
 cups-browsed_hu=Nyomtatás, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_hu=Admin, Plymouth boot splash
 
 # id
 
 anacron_id=Admin, Runs commands periodically
 cron_id=Admin, Time-based job scheduler
 sudo_id=Admin, Execute a command as another user
+plymouth_id=Admin, Plymouth boot splash
 cpufrequtils_id=Hardware, CPU frequency irqbalance
 smartmontools_id=Hardware, S.M.A.R.T. monitoring tools
 acpid_id=Hardware, Advanced Configuration of Power Interface event daemon
@@ -541,13 +542,13 @@ bluetooth_id=Networking, Bluetooth
 rsync_id=Networking, File copying tool
 cups_id=Printing, Linux and OS X printer service
 cups-browsed_id=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_id=Admin, Plymouth boot splash
 
 # is
 
 anacron_is=Kerfisstjórnun, Runs commands periodically
 cron_is=Kerfisstjórnun, Time-based job scheduler
 sudo_is=Kerfisstjórnun, Execute a command as another user
+plymouth_is=Kerfisstjórnun, Plymouth boot splash
 cpufrequtils_is=Vélbúnaður, CPU frequency irqbalance
 smartmontools_is=Vélbúnaður, S.M.A.R.T. monitoring tools
 acpid_is=Vélbúnaður, Advanced Configuration of Power Interface event daemon
@@ -568,13 +569,13 @@ bluetooth_is=Netkerfi, Bluetooth
 rsync_is=Netkerfi, File copying tool
 cups_is=Prentun, Linux and OS X printer service
 cups-browsed_is=Prentun, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_is=Kerfisstjórnun, Plymouth boot splash
 
 # it
 
 anacron_it=Amministrazione, Avvia i comandi periodicamente
 cron_it=Amministrazione, Time-based job scheduler
 sudo_it=Amministrazione, Eseguire un comando come altro utente
+plymouth_it=Amministrazione, Plymouth boot splash
 cpufrequtils_it=Hardware, CPU frequency irqbalance
 smartmontools_it=Hardware, S.M.A.R.T. monitoring tools
 acpid_it=Hardware, Demone degli eventi di configurazione avanzata e dell'interfaccia Power
@@ -595,13 +596,13 @@ bluetooth_it=Impostazioni di rete, Bluetooth
 rsync_it=Impostazioni di rete, Strumento di copia File
 cups_it=Stampa, Servizio per la stampa in Linux e OS X
 cups-browsed_it=Stampa, CUPS Bonjour (zeroconf) servizio di rilevazione stampanti
-plymouth_it=Amministrazione, Plymouth boot splash
 
 # ja_JP
 
 anacron_ja_JP=Admin, Runs commands periodically
 cron_ja_JP=Admin, Time-based job scheduler
 sudo_ja_JP=Admin, Execute a command as another user
+plymouth_ja_JP=Admin, Plymouth boot splash
 cpufrequtils_ja_JP=Hardware, CPU frequency irqbalance
 smartmontools_ja_JP=Hardware, S.M.A.R.T. monitoring tools
 acpid_ja_JP=Hardware, Advanced Configuration of Power Interface event daemon
@@ -622,13 +623,13 @@ bluetooth_ja_JP=Networking, Bluetooth
 rsync_ja_JP=Networking, File copying tool
 cups_ja_JP=Printing, Linux and OS X printer service
 cups-browsed_ja_JP=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_ja_JP=Admin, Plymouth boot splash
 
 # ja
 
 anacron_ja=Admin, 定期的にコマンドを実行する
 cron_ja=Admin, 時間スケジュール処理
 sudo_ja=Admin, 他のユーザがコマンドを実行
+plymouth_ja=Admin, Plymouth boot splash
 cpufrequtils_ja=ハードウェア, CPU frequency irqbalance
 smartmontools_ja=ハードウェア, S.M.A.R.T. 監視ツール
 acpid_ja=ハードウェア, Advanced Configuration of Power Interface event daemon
@@ -649,13 +650,13 @@ bluetooth_ja=ネットワーク, Bluetooth
 rsync_ja=ネットワーク, File copying tool
 cups_ja=印刷中, Linux・OS X 印刷サービス
 cups-browsed_ja=印刷中, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_ja=Admin, Plymouth boot splash
 
 # kk
 
 anacron_kk=Admin, Runs commands periodically
 cron_kk=Admin, Time-based job scheduler
 sudo_kk=Admin, Execute a command as another user
+plymouth_kk=Admin, Plymouth boot splash
 cpufrequtils_kk=Hardware, CPU frequency irqbalance
 smartmontools_kk=Hardware, S.M.A.R.T. monitoring tools
 acpid_kk=Hardware, Advanced Configuration of Power Interface event daemon
@@ -676,13 +677,13 @@ bluetooth_kk=Networking, Bluetooth
 rsync_kk=Networking, File copying tool
 cups_kk=Баспаға шығару, Linux and OS X printer service
 cups-browsed_kk=Баспаға шығару, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_kk=Admin, Plymouth boot splash
 
 # ko
 
 anacron_ko=Admin, Runs commands periodically
 cron_ko=Admin, Time-based job scheduler
 sudo_ko=Admin, Execute a command as another user
+plymouth_ko=Admin, Plymouth boot splash
 cpufrequtils_ko=Hardware, CPU frequency irqbalance
 smartmontools_ko=Hardware, S.M.A.R.T. monitoring tools
 acpid_ko=Hardware, Advanced Configuration of Power Interface event daemon
@@ -703,13 +704,13 @@ bluetooth_ko=Networking, Bluetooth
 rsync_ko=Networking, File copying tool
 cups_ko=Printing, Linux and OS X printer service
 cups-browsed_ko=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_ko=Admin, Plymouth boot splash
 
 # lt
 
 anacron_lt=Administravimas, Periodiškai vykdo komandas
 cron_lt=Administravimas, Laiku pagrįsta užduočių planuoklė
 sudo_lt=Administravimas, Vykdyti komandą kaip kitas naudotojas
+plymouth_lt=Administravimas, Plymouth boot splash
 cpufrequtils_lt=Aparatinė įranga, CPU frequency irqbalance
 smartmontools_lt=Aparatinė įranga, S.M.A.R.T. stebėsenos įrankiai
 acpid_lt=Aparatinė įranga, Advanced Configuration of Power Interface event daemon
@@ -730,13 +731,13 @@ bluetooth_lt=Darbas tinkle, Bluetooth
 rsync_lt=Darbas tinkle, File copying tool
 cups_lt=Spausdinimas, Linux ir OS X spausdinimo tarnyba
 cups-browsed_lt=Spausdinimas, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_lt=Administravimas, Plymouth boot splash
 
 # mk
 
 anacron_mk=Admin, Runs commands periodically
 cron_mk=Admin, Time-based job scheduler
 sudo_mk=Admin, Execute a command as another user
+plymouth_mk=Admin, Plymouth boot splash
 cpufrequtils_mk=Hardware, CPU frequency irqbalance
 smartmontools_mk=Hardware, S.M.A.R.T. monitoring tools
 acpid_mk=Hardware, Advanced Configuration of Power Interface event daemon
@@ -757,13 +758,13 @@ bluetooth_mk=Networking, Bluetooth
 rsync_mk=Networking, File copying tool
 cups_mk=Printing, Linux and OS X printer service
 cups-browsed_mk=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_mk=Admin, Plymouth boot splash
 
 # nb
 
 anacron_nb=Admin, Runs commands periodically
 cron_nb=Admin, Time-based job scheduler
 sudo_nb=Admin, Execute a command as another user
+plymouth_nb=Admin, Plymouth boot splash
 cpufrequtils_nb=Maskinvare, CPU frequency irqbalance
 smartmontools_nb=Maskinvare, S.M.A.R.T. monitoring tools
 acpid_nb=Maskinvare, Advanced Configuration of Power Interface event daemon
@@ -784,13 +785,13 @@ bluetooth_nb=Netverks, Bluetooth
 rsync_nb=Netverks, File copying tool
 cups_nb=Printing, Linux and OS X printer service
 cups-browsed_nb=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_nb=Admin, Plymouth boot splash
 
 # nl
 
 anacron_nl=Admin, Runs commands periodically
 cron_nl=Admin, Time-based job scheduler
 sudo_nl=Admin, Execute a command as another user
+plymouth_nl=Admin, Plymouth boot splash
 cpufrequtils_nl=Hardware, CPU frequency irqbalance
 smartmontools_nl=Hardware, S.M.A.R.T. monitoring tools
 acpid_nl=Hardware, Gevorderde Configuratie en Power Interface event daemon
@@ -811,40 +812,40 @@ bluetooth_nl=Netwerken, Bluetooth
 rsync_nl=Netwerken, Bestand kopiëergereedschap
 cups_nl=Afdrukken, Linux and OS X printer service
 cups-browsed_nl=Afdrukken, CUPS Bonjour (zeroconf) printer vinder service
-plymouth_nl=Admin, Plymouth boot splash
 
 # pl
 
-anacron_pl=Admin, Wykonuj komendy cyklicznie
+anacron_pl=Admin, Uruchamia polecenia okresowo
 cron_pl=Admin, Planowanie zadań oparte o czas
-sudo_pl=Admin, Wykonaj komendę jako inny użytkownik
-cpufrequtils_pl=Urządzenia, CPU frequency irqbalance
-smartmontools_pl=Urządzenia, S.M.A.R.T. narzędzia monitorowania
-acpid_pl=Urządzenia, Advanced Configuration of Power Interface event daemon
-acpi-support_pl=Urządzenia, Daemon wydarzeń Zaawansowanej Konfiguracji i Interfejsu Zasilania
-hddtemp_pl=Urządzenia, Monitor temperatury dysku twardego
-gpm_pl=Urządzenia, Serwer wydarzeń myszy
-acpi-fakekey_pl=Urządzenia, Tworzy kluczowe wydarzenia dla skryptów ACPI
-dbus_pl=Urządzenia, Daemon message bus
-saned_pl=Urządzenia, Daemon skanera
-haveged_pl=Urządzenia, Generator liczb losowych
-avahi-daemon_pl=Urządzenia, Włącza programy aby publikować i odkrywać usługi oraz hosty
-network-manager_pl=Sieciowe, Network connections
-wicd_pl=Sieciowe, Network connections
-ssh_pl=Sieciowe, Bezpieczna powłoka
-nfs-kernel-server_pl=Sieciowe, Linux NFS Network File System server component
-openVPN_pl=Sieciowe, VPN program that creates secure connections
-bluetooth_pl=Sieciowe, Bluetooth
-rsync_pl=Sieciowe, File copying tool
-cups_pl=Drukowanie, Usługa druku systemów Linux i OS X
-cups-browsed_pl=Drukowanie, CUPS Bonjour (zeroconf) printer discovery service
+sudo_pl=Admin, Wykonaj polecenie jako inny użytkownik
 plymouth_pl=Admin, Plymouth boot splash
+cpufrequtils_pl=Sprzęt, CPU frequency irqbalance
+smartmontools_pl=Sprzęt, Narzędzia monitorowania S.M.A.R.T.
+acpid_pl=Sprzęt, Zaawansowana konfiguracja demona zdarzeń interfejsu zasilania
+acpi-support_pl=Sprzęt, Zaawansowana konfiguracja i interfejs zasilania
+hddtemp_pl=Sprzęt, Monitor temperatury dysku twardego
+gpm_pl=Sprzęt, Serwer zdarzeń myszy
+acpi-fakekey_pl=Sprzęt, Generuje kluczowe zdarzenia dla skryptów ACPI
+dbus_pl=Sprzęt, Message bus daemon
+saned_pl=Sprzęt, Daemon skanera
+haveged_pl=Sprzęt, Generator liczb losowych
+avahi-daemon_pl=Sprzęt, Umożliwia programom publikowanie i odkrywanie usług i hostów
+network-manager_pl=Sieć (networking), Połączenia sieciowe
+wicd_pl=Sieć (networking), Połączenia sieciowe
+ssh_pl=Sieć (networking), Bezpieczna powłoka
+nfs-kernel-server_pl=Sieć (networking), Linux NFS komponent serwera Sieciowego Systemu Plików
+openVPN_pl=Sieć (networking), Program VPN, który tworzy bezpieczne połączenia
+bluetooth_pl=Sieć (networking), Bluetooth
+rsync_pl=Sieć (networking), Narzędzie do kopiowania plików
+cups_pl=Drukowanie, Usługa drukowania dla systemów Linux i OS X
+cups-browsed_pl=Drukowanie, Usługa wykrywania drukarek CUPS Bonjour (zeroconf)
 
 # pt_BR
 
 anacron_pt_BR=Administrador, Executa os comandos periodicamente
 cron_pt_BR=Administrador, Agendador de ações a executar por horário
 sudo_pt_BR=Administrador, Executar um comando como usuário diferente
+plymouth_pt_BR=Administrador, Plymouth boot splash
 cpufrequtils_pt_BR=Hardware, Frequência irqbalance da CPU
 smartmontools_pt_BR=Hardware, Ferramentas de monitorização S.M.A.R.T.
 acpid_pt_BR=Hardware, Daemon (processo oculto) de evento de Configuração Avançada da Interface de Energia (ACPI)
@@ -865,13 +866,13 @@ bluetooth_pt_BR=Rede, Bluetooth
 rsync_pt_BR=Rede, Ferramenta de cópia de arquivos
 cups_pt_BR=Impressão, Serviço de impressoras para Linux e OS X
 cups-browsed_pt_BR=Impressão, Serviço descobridor de impressoras - CUPS Bonjour (zeroconf)
-plymouth_pt_BR=Administrador, Plymouth boot splash
 
 # pt
 
 anacron_pt=Administrar, Executa os comandos periodicamente
 cron_pt=Administrar, Horário de ações temporizadas
 sudo_pt=Administrar, Executar um comando como utilizador diferente
+plymouth_pt=Administrar, Plymouth boot splash
 cpufrequtils_pt=Equipamento, irqbalance para a frequência da CPU
 smartmontools_pt=Equipamento, Ferramentas de monitorização S.M.A.R.T.
 acpid_pt=Equipamento, Configuração Avançada do daemon de eventos da Interface de Energia
@@ -892,13 +893,13 @@ bluetooth_pt=Redes, Bluetooth
 rsync_pt=Redes, Ferramenta de cópia de ficheiros
 cups_pt=Imprimir, Serviço de impressoras para Linux e OS X
 cups-browsed_pt=Imprimir, Serviço de detecção de impressoras CUPS Bonjour (ou DNS Service Discovery)
-plymouth_pt=Administrar, Plymouth boot splash
 
 # ro
 
 anacron_ro=Admin, Runs commands periodically
 cron_ro=Admin, Time-based job scheduler
 sudo_ro=Admin, Execute a command as another user
+plymouth_ro=Admin, Plymouth boot splash
 cpufrequtils_ro=Hardware, CPU frequency irqbalance
 smartmontools_ro=Hardware, S.M.A.R.T. monitoring tools
 acpid_ro=Hardware, Advanced Configuration of Power Interface event daemon
@@ -919,13 +920,13 @@ bluetooth_ro=Rețea, Bluetooth
 rsync_ro=Rețea, File copying tool
 cups_ro=Tipărire, Linux and OS X printer service
 cups-browsed_ro=Tipărire, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_ro=Admin, Plymouth boot splash
 
 # ru
 
 anacron_ru=Admin, Выполняет команды периодически
 cron_ru=Admin, Планировщик заданий, основанный на времени
 sudo_ru=Admin, Выполнить команду от имени другого пользователя
+plymouth_ru=Admin, Plymouth boot splash
 cpufrequtils_ru=Оборудование, Управление частотой CPU и Irqbalance
 smartmontools_ru=Оборудование, Инструменты проверки S.M.A.R.T. у накопителей
 acpid_ru=Оборудование, Конфигурация демона событий интерфейса энергопотребления
@@ -946,13 +947,13 @@ bluetooth_ru=Сеть, Блютуз
 rsync_ru=Сеть, Утилита копирования файлов
 cups_ru=Печать, Служба принтера Linux и OS X
 cups-browsed_ru=Печать, Служба общего доступа к принтерам CUPS Bonjour
-plymouth_ru=Admin, Plymouth boot splash
 
 # sk
 
 anacron_sk=Admin, Spúšťa príkazy opakovane
 cron_sk=Admin, Časovač úloh
 sudo_sk=Admin, Spustiť príkaz ako iný uživateľ
+plymouth_sk=Admin, Plymouth boot splash
 cpufrequtils_sk=Hardvér, CPU frequency irqbalance
 smartmontools_sk=Hardvér, S.M.A.R.T. monitorovacie nástroje
 acpid_sk=Hardvér, Advanced Configuration of Power Interface event daemon
@@ -973,13 +974,13 @@ bluetooth_sk=Sieť, Bluetooth
 rsync_sk=Sieť, File copying tool
 cups_sk=Tlač, Služba tlače pre Linux a OS X
 cups-browsed_sk=Tlač, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_sk=Admin, Plymouth boot splash
 
 # sl
 
 anacron_sl=Administrator, Runs commands periodically
 cron_sl=Administrator, Time-based job scheduler
 sudo_sl=Administrator, Execute a command as another user
+plymouth_sl=Administrator, Plymouth boot splash
 cpufrequtils_sl=Strojni, CPU frequency irqbalance
 smartmontools_sl=Strojni, S.M.A.R.T. monitoring tools
 acpid_sl=Strojni, Advanced Configuration of Power Interface event daemon
@@ -1000,13 +1001,13 @@ bluetooth_sl=Omrežje, Bluetooth
 rsync_sl=Omrežje, File copying tool
 cups_sl=Tiskanje, Linux and OS X printer service
 cups-browsed_sl=Tiskanje, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_sl=Administrator, Plymouth boot splash
 
 # sq
 
 anacron_sq=Admin, Runs commands periodically
 cron_sq=Admin, Time-based job scheduler
 sudo_sq=Admin, Execute a command as another user
+plymouth_sq=Admin, Plymouth boot splash
 cpufrequtils_sq=Hardware, CPU frequency irqbalance
 smartmontools_sq=Hardware, S.M.A.R.T. monitoring tools
 acpid_sq=Hardware, Advanced Configuration of Power Interface event daemon
@@ -1027,13 +1028,13 @@ bluetooth_sq=Networking, Bluetooth
 rsync_sq=Networking, File copying tool
 cups_sq=Printing, Linux and OS X printer service
 cups-browsed_sq=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_sq=Admin, Plymouth boot splash
 
 # sr
 
 anacron_sr=Admin, Runs commands periodically
 cron_sr=Admin, Time-based job scheduler
 sudo_sr=Admin, Execute a command as another user
+plymouth_sr=Admin, Plymouth boot splash
 cpufrequtils_sr=Hardware, CPU frequency irqbalance
 smartmontools_sr=Hardware, S.M.A.R.T. monitoring tools
 acpid_sr=Hardware, Advanced Configuration of Power Interface event daemon
@@ -1054,13 +1055,13 @@ bluetooth_sr=Networking, Bluetooth
 rsync_sr=Networking, File copying tool
 cups_sr=Printing, Linux and OS X printer service
 cups-browsed_sr=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_sr=Admin, Plymouth boot splash
 
 # sv
 
 anacron_sv=Administratör, Kör kommandon periodiskt
 cron_sv=Administratör, Tidsbaserad arbets-schemaläggare
 sudo_sv=Administratör, Utför ett kommando som annan användare
+plymouth_sv=Administratör, Plymouth boot splash
 cpufrequtils_sv=Hårdvara, CPU-frekvens irqbalance
 smartmontools_sv=Hårdvara, S.M.A.R.T. övervakningsverktyg
 acpid_sv=Hårdvara, Avancerade Konfigurerings- och Effektgränssnittets händelse-daemon
@@ -1081,13 +1082,13 @@ bluetooth_sv=Nätverk, Bluetooth
 rsync_sv=Nätverk, Filkopieringsverktyg
 cups_sv=Utskrifter, Linux och OS X skrivartjänst
 cups-browsed_sv=Utskrifter, CUPS Bonjour (zeroconf) sevice för att hitta skrivare
-plymouth_sv=Administratör, Plymouth boot splash
 
 # tr
 
 anacron_tr=Yönetici, Runs commands periodically
 cron_tr=Yönetici, Time-based job scheduler
 sudo_tr=Yönetici, Execute a command as another user
+plymouth_tr=Yönetici, Plymouth boot splash
 cpufrequtils_tr=Donanım, CPU frequency irqbalance
 smartmontools_tr=Donanım, S.M.A.R.T. monitoring tools
 acpid_tr=Donanım, Advanced Configuration of Power Interface event daemon
@@ -1108,13 +1109,13 @@ bluetooth_tr=Ağ kurma, Bluetooth
 rsync_tr=Ağ kurma, File copying tool
 cups_tr=Yazdırılıyor, Linux ve OS X yazıcı hizmeti
 cups-browsed_tr=Yazdırılıyor, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_tr=Yönetici, Plymouth boot splash
 
 # uk
 
 anacron_uk=Admin, Runs commands periodically
 cron_uk=Admin, Time-based job scheduler
 sudo_uk=Admin, Execute a command as another user
+plymouth_uk=Admin, Plymouth boot splash
 cpufrequtils_uk=Обладнання, CPU frequency irqbalance
 smartmontools_uk=Обладнання, S.M.A.R.T. monitoring tools
 acpid_uk=Обладнання, Advanced Configuration of Power Interface event daemon
@@ -1135,13 +1136,13 @@ bluetooth_uk=Мережа, Bluetooth
 rsync_uk=Мережа, File copying tool
 cups_uk=Друк, Linux and OS X printer service
 cups-browsed_uk=Друк, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_uk=Admin, Plymouth boot splash
 
 # zh_CN
 
 anacron_zh_CN=Admin, Runs commands periodically
 cron_zh_CN=Admin, Time-based job scheduler
 sudo_zh_CN=Admin, Execute a command as another user
+plymouth_zh_CN=Admin, Plymouth boot splash
 cpufrequtils_zh_CN=Hardware, CPU frequency irqbalance
 smartmontools_zh_CN=Hardware, S.M.A.R.T. monitoring tools
 acpid_zh_CN=Hardware, Advanced Configuration of Power Interface event daemon
@@ -1162,13 +1163,13 @@ bluetooth_zh_CN=Networking, Bluetooth
 rsync_zh_CN=Networking, File copying tool
 cups_zh_CN=Printing, Linux and OS X printer service
 cups-browsed_zh_CN=Printing, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_zh_CN=Admin, Plymouth boot splash
 
 # zh_TW
 
 anacron_zh_TW=管理, Runs commands periodically
 cron_zh_TW=管理, Time-based job scheduler
 sudo_zh_TW=管理, Execute a command as another user
+plymouth_zh_TW=管理, Plymouth boot splash
 cpufrequtils_zh_TW=硬體, CPU frequency irqbalance
 smartmontools_zh_TW=硬體, S.M.A.R.T. monitoring tools
 acpid_zh_TW=硬體, Advanced Configuration of Power Interface event daemon
@@ -1189,4 +1190,3 @@ bluetooth_zh_TW=網路, Bluetooth
 rsync_zh_TW=網路, File copying tool
 cups_zh_TW=列印, Linux and OS X printer service
 cups-browsed_zh_TW=列印, CUPS Bonjour (zeroconf) printer discovery service
-plymouth_zh_TW=管理, Plymouth boot splash
