@@ -1,3 +1,9 @@
+gazelle-installer-data (19.5.01) mx; urgency=medium
+
+  * syncd services lists 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 28 May 2019 20:29:22 -0500
+
 gazelle-installer-data (19.2.01) mx; urgency=medium
 
   * added plymouth to services.list 
