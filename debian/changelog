@@ -1,3 +1,9 @@
+gazelle-installer-data (19.7) mx; urgency=medium
+
+  * add social media links 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 14 Jul 2019 13:20:29 -0400
+
 gazelle-installer-data (19.5.01) mx; urgency=medium
 
   * syncd services lists 
