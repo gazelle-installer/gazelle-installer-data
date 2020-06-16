@@ -1,3 +1,9 @@
+gazelle-installer-data (20.6) mx; urgency=medium
+
+  * remove autologin for sddm
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 15 Jun 2020 20:04:50 -0400
+
 gazelle-installer-data (19.7) mx; urgency=medium
 
   * add social media links 

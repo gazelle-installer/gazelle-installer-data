@@ -81,6 +81,7 @@ main() {
     rm_file        usr/share/applications/antix/remaster.desktop
 
     sed_line      's/^\s*(session\s+[^\s]+\s+pam_lastlog.so).*/\1/' etc/pam.d/login
+    sed_line      's/^User=.*/User=/' etc/sddm.conf
 
     #idir_chroot   dpkg --purge $PURGE_PACKAGES
 
