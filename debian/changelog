@@ -1,3 +1,9 @@
+gazelle-installer-data (21.01) mx; urgency=medium
+
+  * update installer.conf
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 21 Jan 2021 20:41:24 -0500
+
 gazelle-installer-data (19.11) mx; urgency=medium
 
   * generic logo and backgrounds 
