@@ -84,7 +84,7 @@ main() {
 
     #idir_chroot   dpkg --purge $PURGE_PACKAGES
 
-    clear_dir     media run tmp var/tmp
+    clear_dir     run tmp var/tmp
     rm_dir        var/log/live
     clear_files   var/log
 
