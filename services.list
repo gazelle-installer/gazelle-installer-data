@@ -29,6 +29,7 @@ bluetooth=Networking, Bluetooth
 rsync=Networking, File copying tool
 cups=Printing, Linux and OS X printer service
 cups-browsed=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zramswap=Admin, compressed swap space in ram
 
 # am
 
@@ -56,6 +57,7 @@ bluetooth_am=ኔትዎርክ, ብሉቱዝ
 rsync_am=ኔትዎርክ, File copying tool
 cups_am=በ ማተም ላይ, Linux and OS X የ ማተሚያ ግልጋሎት
 cups-browsed_am=በ ማተም ላይ, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_am=አስተዳዳሪ፣ በራም ውስጥ የታመቀ የመለዋወጫ ቦታ
 
 # ar
 
@@ -83,6 +85,7 @@ bluetooth_ar=Networking, Bluetooth
 rsync_ar=Networking, File copying tool
 cups_ar=Printing, Linux and OS X printer service
 cups-browsed_ar=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_ar=ﻲﺋﺍﻮﺸﻌﻟﺍ ﻝﻮﺻﻮﻟﺍ ﺓﺮﻛﺍﺫ ﻲﻓ ﺔﻃﻮﻐﻀﻣ ﺔﻟﺩﺎﺒﻣ ﺔﺣﺎﺴﻣ ، ﻑﺮﺸﻣ
 
 # bg
 
@@ -110,6 +113,7 @@ bluetooth_bg=Networking, Bluetooth
 rsync_bg=Networking, File copying tool
 cups_bg=Printing, Linux and OS X printer service
 cups-browsed_bg=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_bg=Администратор, компресирано суап пространство в ram
 
 # ca
 
@@ -137,6 +141,7 @@ bluetooth_ca=Xarxa, Bluetooth
 rsync_ca=Xarxa, Eina de còpia de fitxers
 cups_ca=Impressió , Servei d'impressió per a Linux i OS X
 cups-browsed_ca=Impressió , Servei de descoberta d'impressores CUPS Bonjour (zeroconf)
+zswapram_ca=Administrador, espai d'intercanvi comprimit a la memòria RAM
 
 # cs
 
@@ -164,6 +169,7 @@ bluetooth_cs=Síť, Bluetooth
 rsync_cs=Síť, File copying tool
 cups_cs=Tisk, Linux a OSX služby tisku
 cups-browsed_cs=Tisk, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_cs=Admine, komprimovaný odkládací prostor v ram
 
 # da
 
@@ -191,6 +197,7 @@ bluetooth_da=Netværk, Bluetooth
 rsync_da=Netværk, Filkopieringsværktøj
 cups_da=Udskrivning, Linux- og OS X-printertjeneste
 cups-browsed_da=Udskrivning, CUPS Bonjour (zeroconf) -printeropdagelsestjeneste
+zswapram_da=Admin, komprimeret swap-plads i ram
 
 # de
 
@@ -218,6 +225,7 @@ bluetooth_de=Netzwerkeinstellungen, Bluetooth
 rsync_de=Netzwerkeinstellungen, Werkzeug zum Kopieren von Dateien
 cups_de=Drucken, Linux und OS X Druckerdienst
 cups-browsed_de=Drucken, CUPS Bonjour (zeroconf) Dienst zum Druckerauffinden
+zswapram_de=Admin, komprimierter Auslagerungsspeicher im RAM
 
 # el
 
@@ -245,6 +253,7 @@ bluetooth_el=Δικτύωση, Bluetooth
 rsync_el=Δικτύωση, Εργαλείο αντιγραφής αρχείων
 cups_el=Εκτύπωση, Linux and OS X printer service
 cups-browsed_el=Εκτύπωση, Υπηρεσία εντοπισμού εκτυπωτών CUPS Bonjour (zeroconf)
+zswapram_el=Διαχειριστής, συμπιεσμένος χώρος ανταλλαγής στη μνήμη ram
 
 # es
 
@@ -272,6 +281,7 @@ bluetooth_es=Conexión entre redes, Bluetooth
 rsync_es=Conexión entre redes, Herramienta para copiar ficheros
 cups_es=Impresión, Servicio de impresión para Linux y OS X
 cups-browsed_es=Impresión, CUPS Bonjour (zeroconf) servicio para visualización de impresoras
+zswapram_es=Admin, espacio de intercambio comprimido en ram
 
 # et
 
@@ -299,6 +309,7 @@ bluetooth_et=Networking, Bluetooth
 rsync_et=Networking, File copying tool
 cups_et=Printing, Linux and OS X printer service
 cups-browsed_et=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_et=Administraator, tihendatud vahetusruum ramis
 
 # eu
 
@@ -326,6 +337,7 @@ bluetooth_eu=Networking, Bluetooth
 rsync_eu=Networking, File copying tool
 cups_eu=Printing, Linux and OS X printer service
 cups-browsed_eu=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_eu=Administratzailea, truke-espazio konprimitua aramean
 
 # fa
 
@@ -353,6 +365,7 @@ bluetooth_fa=Networking, Bluetooth
 rsync_fa=Networking, File copying tool
 cups_fa=Printing, Linux and OS X printer service
 cups-browsed_fa=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_fa=ﻡﺭ ﺭﺩ ﻩﺩﺮﺸﻓ ﻪﻟﺩﺎﺒﻣ ﯼﺎﻀﻓ ،ﺮﯾﺪﻣ
 
 # fi
 
@@ -380,6 +393,7 @@ bluetooth_fi=Verkko, Bluetooth
 rsync_fi=Verkko, Tiedostojen kopiointityökalu
 cups_fi=Tulostus, Linux and OS X printer service
 cups-browsed_fi=Tulostus, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_fi=Admin, pakattu swap-tila ramissa
 
 # fr
 
@@ -407,6 +421,7 @@ bluetooth_fr=Réseaux, Bluetooth
 rsync_fr=Réseaux, Outil de copie de fichier
 cups_fr=Imprimantes, Service d'impression pour Linux et OS X
 cups-browsed_fr=Imprimantes, Service de découverte d'imprimante de CUPS, Bonjour (zeroconf)
+zswapram_fr=Admin, espace d'échange compressé dans la RAM
 
 # he_IL
 
@@ -434,6 +449,7 @@ bluetooth_he_IL=Networking, Bluetooth
 rsync_he_IL=Networking, File copying tool
 cups_he_IL=Printing, Linux and OS X printer service
 cups-browsed_he_IL=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_he_IL=םארב סוחד הפלחה חטש ,ןימדא
 
 # hi
 
@@ -461,6 +477,7 @@ bluetooth_hi=नेटवर्किंग, ब्लूटूथ
 rsync_hi=नेटवर्किंग, File copying tool
 cups_hi=प्रिंटिंग, Linux and OS X printer service
 cups-browsed_hi=प्रिंटिंग, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_hi=व्यवस्थापक, रैम में संपीड़ित स्वैप स्थान
 
 # hr
 
@@ -488,6 +505,7 @@ bluetooth_hr=Networking, Bluetooth
 rsync_hr=Networking, Alat za kopiranje datoteka
 cups_hr=Ispisivanje, Linux i OS X servis ispisa
 cups-browsed_hr=Ispisivanje, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_hr=Admin, komprimirani swap prostor u ramu
 
 # hu
 
@@ -515,6 +533,7 @@ bluetooth_hu=Hálózatok, Bluetooth
 rsync_hu=Hálózatok, File copying tool
 cups_hu=Nyomtatás, Linux and OS X printer service
 cups-browsed_hu=Nyomtatás, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_hu=Admin, tömörített swap terület a ramban
 
 # id
 
@@ -542,6 +561,7 @@ bluetooth_id=Networking, Bluetooth
 rsync_id=Networking, File copying tool
 cups_id=Printing, Linux and OS X printer service
 cups-browsed_id=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_id=Admin, ruang swap terkompresi di ram
 
 # is
 
@@ -569,6 +589,7 @@ bluetooth_is=Netkerfi, Bluetooth
 rsync_is=Netkerfi, File copying tool
 cups_is=Prentun, Linux and OS X printer service
 cups-browsed_is=Prentun, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_is=Admin, þjappað skiptirými í hrút
 
 # it
 
@@ -596,33 +617,7 @@ bluetooth_it=Impostazioni di rete, Bluetooth
 rsync_it=Impostazioni di rete, Strumento di copia File
 cups_it=Stampa, Servizio per la stampa in Linux e OS X
 cups-browsed_it=Stampa, CUPS Bonjour (zeroconf) servizio di rilevazione stampanti
-
-# ja_JP
-
-anacron_ja_JP=Admin, Runs commands periodically
-cron_ja_JP=Admin, Time-based job scheduler
-sudo_ja_JP=Admin, Execute a command as another user
-plymouth_ja_JP=Admin, Plymouth boot splash
-cpufrequtils_ja_JP=Hardware, CPU frequency irqbalance
-smartmontools_ja_JP=Hardware, S.M.A.R.T. monitoring tools
-acpid_ja_JP=Hardware, Advanced Configuration of Power Interface event daemon
-acpi-support_ja_JP=Hardware, Advanced Configuration and Power Interface
-hddtemp_ja_JP=Hardware, HDD temperature monitor
-gpm_ja_JP=Hardware, Mouse event server
-acpi-fakekey_ja_JP=Hardware, Generates key events for ACPI scripts
-dbus_ja_JP=Hardware, Message bus daemon
-saned_ja_JP=Hardware, Scanner daemon
-haveged_ja_JP=Hardware, Random number generator
-avahi-daemon_ja_JP=Hardware, Enables programs to publish and discover services and hosts
-network-manager_ja_JP=Networking, Network connections
-wicd_ja_JP=Networking, Network connections
-ssh_ja_JP=Networking, Secure Shell
-nfs-kernel-server_ja_JP=Networking, Linux NFS Network File System server component
-openVPN_ja_JP=Networking, VPN program that creates secure connections
-bluetooth_ja_JP=Networking, Bluetooth
-rsync_ja_JP=Networking, File copying tool
-cups_ja_JP=Printing, Linux and OS X printer service
-cups-browsed_ja_JP=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_it=Amministratore, spazio di swap compresso nella ram
 
 # ja
 
@@ -650,6 +645,7 @@ bluetooth_ja=ネットワーク, Bluetooth
 rsync_ja=ネットワーク, File copying tool
 cups_ja=印刷中, Linux・OS X 印刷サービス
 cups-browsed_ja=印刷中, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_ja=管理者、RAM 内の圧縮されたスワップ領域
 
 # kk
 
@@ -677,6 +673,7 @@ bluetooth_kk=Networking, Bluetooth
 rsync_kk=Networking, File copying tool
 cups_kk=Баспаға шығару, Linux and OS X printer service
 cups-browsed_kk=Баспаға шығару, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_kk=Әкімші, жедел жадтағы сығылған своп кеңістігі
 
 # ko
 
@@ -704,6 +701,7 @@ bluetooth_ko=Networking, Bluetooth
 rsync_ko=Networking, File copying tool
 cups_ko=Printing, Linux and OS X printer service
 cups-browsed_ko=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_ko=관리자, 램의 압축된 스왑 공간
 
 # lt
 
@@ -731,6 +729,7 @@ bluetooth_lt=Darbas tinkle, Bluetooth
 rsync_lt=Darbas tinkle, Failų kopijavimo įrankis
 cups_lt=Spausdinimas, Linux ir OS X spausdinimo tarnyba
 cups-browsed_lt=Spausdinimas, CUPS Bonjour (zeroconf) spausdintuvų atradimo tarnyba
+zswapram_lt=Administratorius, suspausta apsikeitimo vieta RAM
 
 # mk
 
@@ -758,6 +757,7 @@ bluetooth_mk=Networking, Bluetooth
 rsync_mk=Networking, File copying tool
 cups_mk=Printing, Linux and OS X printer service
 cups-browsed_mk=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_mk=Администратор, компримиран простор за размена во рамот
 
 # nb
 
@@ -785,6 +785,7 @@ bluetooth_nb=Netverks, Bluetooth
 rsync_nb=Netverks, File copying tool
 cups_nb=Printing, Linux and OS X printer service
 cups-browsed_nb=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_nb=Admin, komprimert bytteplass i ram
 
 # nl
 
@@ -812,6 +813,7 @@ bluetooth_nl=Netwerken, Bluetooth
 rsync_nl=Netwerken, Bestand kopiëergereedschap
 cups_nl=Afdrukken, Linux and OS X printer service
 cups-browsed_nl=Afdrukken, CUPS Bonjour (zeroconf) printer vinder service
+zswapram_nl=Admin, gecomprimeerde swapruimte in ram
 
 # pl
 
@@ -839,6 +841,7 @@ bluetooth_pl=Sieć (networking), Bluetooth
 rsync_pl=Sieć (networking), Narzędzie do kopiowania plików
 cups_pl=Drukowanie, Usługa drukowania dla systemów Linux i OS X
 cups-browsed_pl=Drukowanie, Usługa wykrywania drukarek CUPS Bonjour (zeroconf)
+zswapram_pl=Administrator skompresował przestrzeń wymiany w pamięci RAM
 
 # pt_BR
 
@@ -866,6 +869,7 @@ bluetooth_pt_BR=Rede, Bluetooth
 rsync_pt_BR=Rede, Ferramenta de cópia de arquivos
 cups_pt_BR=Impressão, Serviço de impressoras para Linux e OS X
 cups-browsed_pt_BR=Impressão, Serviço descobridor de impressoras - CUPS Bonjour (zeroconf)
+zswapram_pt_BR=Admin, espaço de troca compactado em ram
 
 # pt
 
@@ -893,6 +897,7 @@ bluetooth_pt=Redes, Bluetooth
 rsync_pt=Redes, Ferramenta de cópia de ficheiros
 cups_pt=Imprimir, Serviço de impressoras para Linux e OS X
 cups-browsed_pt=Imprimir, Serviço de detecção de impressoras CUPS Bonjour (ou DNS Service Discovery)
+zswapram_pt=Admin, espaço de troca compactado em ram
 
 # ro
 
@@ -920,6 +925,7 @@ bluetooth_ro=Rețea, Bluetooth
 rsync_ro=Rețea, File copying tool
 cups_ro=Tipărire, Linux and OS X printer service
 cups-browsed_ro=Tipărire, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_ro=Administrator, spațiu de schimb comprimat în ram
 
 # ru
 
@@ -947,6 +953,7 @@ bluetooth_ru=Сеть, Блютуз
 rsync_ru=Сеть, Утилита копирования файлов
 cups_ru=Печать, Служба принтера Linux и OS X
 cups-browsed_ru=Печать, Служба общего доступа к принтерам CUPS Bonjour
+zswapram_ru=Админ, сжатое пространство подкачки в оперативной памяти
 
 # sk
 
@@ -974,6 +981,7 @@ bluetooth_sk=Sieť, Bluetooth
 rsync_sk=Sieť, File copying tool
 cups_sk=Tlač, Služba tlače pre Linux a OS X
 cups-browsed_sk=Tlač, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_sk=Admin, komprimovaný swapový priestor v ram
 
 # sl
 
@@ -1001,6 +1009,7 @@ bluetooth_sl=Omrežje, Bluetooth
 rsync_sl=Omrežje, File copying tool
 cups_sl=Tiskanje, Linux and OS X printer service
 cups-browsed_sl=Tiskanje, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_sl=Admin, stisnjen izmenjalni prostor v ramu
 
 # sq
 
@@ -1028,6 +1037,7 @@ bluetooth_sq=Networking, Bluetooth
 rsync_sq=Networking, File copying tool
 cups_sq=Printing, Linux and OS X printer service
 cups-browsed_sq=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_sq=Admin, hapësirë e ngjeshur e shkëmbimit në ram
 
 # sr
 
@@ -1055,6 +1065,7 @@ bluetooth_sr=Networking, Bluetooth
 rsync_sr=Networking, File copying tool
 cups_sr=Printing, Linux and OS X printer service
 cups-browsed_sr=Printing, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_sr=Админ, компримовани свап простор у рам-у
 
 # sv
 
@@ -1082,6 +1093,7 @@ bluetooth_sv=Nätverk, Bluetooth
 rsync_sv=Nätverk, Filkopieringsverktyg
 cups_sv=Utskrifter, Linux och OS X skrivartjänst
 cups-browsed_sv=Utskrifter, CUPS Bonjour (zeroconf) sevice för att hitta skrivare
+zswapram_sv=Admin, komprimerat växlingsutrymme i ram
 
 # tr
 
@@ -1109,6 +1121,7 @@ bluetooth_tr=Ağ kurma, Bluetooth
 rsync_tr=Ağ kurma, File copying tool
 cups_tr=Yazdırılıyor, Linux ve OS X yazıcı hizmeti
 cups-browsed_tr=Yazdırılıyor, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_tr=Yönetici, koçta sıkıştırılmış takas alanı
 
 # uk
 
@@ -1136,6 +1149,7 @@ bluetooth_uk=Мережа, Bluetooth
 rsync_uk=Мережа, File copying tool
 cups_uk=Друк, Linux and OS X printer service
 cups-browsed_uk=Друк, CUPS Bonjour (zeroconf) printer discovery service
+zswapram_uk=Адміністратор, стислий простір підкачки в ram
 
 # zh_CN
 
