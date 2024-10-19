@@ -1,3 +1,9 @@
+gazelle-installer-data (24.10) mx; urgency=medium
+
+  * add new customizable areas (for gazelle-installer 24.10.01)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Oct 2024 18:23:55 -0400
+
 gazelle-installer-data (21.01) mx; urgency=medium
 
   * update installer.conf
